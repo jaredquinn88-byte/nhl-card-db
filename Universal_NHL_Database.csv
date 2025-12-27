@@ -5595,3 +5595,857 @@ master_set,card_num,player,team,variations
 2019-20 MVP,SN-18,Pierre-Luc Dubois,Blue Jackets,Base
 2019-20 MVP,SN-19,Sebastian Aho,Hurricanes,Base
 2019-20 MVP,SN-20,Miro Heiskanen,Stars,Base
+2021-22 Tim Horton’s,1,Connor McDavid,N/A,Base
+2021-22 Tim Horton’s,2,Sidney Crosby,N/A,Base
+2021-22 Tim Horton’s,3,Darcy Kuemper,N/A,Base
+2021-22 Tim Horton’s,4,Sean Couturier,N/A,Base
+2021-22 Tim Horton’s,5,Ryan Getzlaf,N/A,Base
+2021-22 Tim Horton’s,6,Mathew Barzal,N/A,Base
+2021-22 Tim Horton’s,7,Anthony Mantha,N/A,Base
+2021-22 Tim Horton’s,8,Patrick Marleau,N/A,Base
+2021-22 Tim Horton’s,9,Colton Parayko,N/A,Base
+2021-22 Tim Horton’s,10,Carey Price,N/A,Base
+2021-22 Tim Horton’s,11,Dylan Cozens,N/A,Base
+2021-22 Tim Horton’s,12,Shea Weber,N/A,Base
+2021-22 Tim Horton’s,13,Brad Marchand,N/A,Base
+2021-22 Tim Horton’s,14,Nick Suzuki,N/A,Base
+2021-22 Tim Horton’s,15,John Tavares,N/A,Base
+2021-22 Tim Horton’s,16,Pierre-Luc Dubois,N/A,Base
+2021-22 Tim Horton’s,17,Claude Giroux,N/A,Base
+2021-22 Tim Horton’s,18,Taylor Hall,N/A,Base
+2021-22 Tim Horton’s,19,Maxime Comtois,N/A,Base
+2021-22 Tim Horton’s,20,Patrice Bergeron,N/A,Base
+2021-22 Tim Horton’s,21,Brent Burns,N/A,Base
+2021-22 Tim Horton’s,22,Wayne Simmonds,N/A,Base
+2021-22 Tim Horton’s,23,Aaron Ekblad,N/A,Base
+2021-22 Tim Horton’s,24,Mark Scheifele,N/A,Base
+2021-22 Tim Horton’s,25,Alex Pietrangelo,N/A,Base
+2021-22 Tim Horton’s,26,Carter Hart,N/A,Base
+2021-22 Tim Horton’s,27,Eric Staal,N/A,Base
+2021-22 Tim Horton’s,28,Mark Stone,N/A,Base
+2021-22 Tim Horton’s,29,Andrew Mangiapane,N/A,Base
+2021-22 Tim Horton’s,30,Cam Talbot,N/A,Base
+2021-22 Tim Horton’s,31,Nathan MacKinnon,N/A,Base
+2021-22 Tim Horton’s,32,Joe Thornton,N/A,Base
+2021-22 Tim Horton’s,33,Brayden Schenn,N/A,Base
+2021-22 Tim Horton’s,34,Tyson Jost,N/A,Base
+2021-22 Tim Horton’s,35,Peyton Krebs,N/A,Base
+2021-22 Tim Horton’s,36,Marc-Andre Fleury,N/A,Base
+2021-22 Tim Horton’s,37,Connor Brown,N/A,Base
+2021-22 Tim Horton’s,38,Jordan Eberle,N/A,Base
+2021-22 Tim Horton’s,39,Adam Henrique,N/A,Base
+2021-22 Tim Horton’s,40,Corey Perry,N/A,Base
+2021-22 Tim Horton’s,41,Bowen Byram,N/A,Base
+2021-22 Tim Horton’s,42,Ryan Nugent-Hopkins,N/A,Base
+2021-22 Tim Horton’s,43,Cale Makar,N/A,Base
+2021-22 Tim Horton’s,44,Ryan Ellis,N/A,Base
+2021-22 Tim Horton’s,45,Jason Spezza,N/A,Base
+2021-22 Tim Horton’s,46,Ryan O'Reilly,N/A,Base
+2021-22 Tim Horton’s,47,Matt Duchene,N/A,Base
+2021-22 Tim Horton’s,48,Steven Stamkos,N/A,Base
+2021-22 Tim Horton’s,49,Mitch Marner,N/A,Base
+2021-22 Tim Horton’s,50,Alexis Lafreniere,N/A,Base
+2021-22 Tim Horton’s,51,Kirby Dach,N/A,Base
+2021-22 Tim Horton’s,52,Quinton Byfield,N/A,Base
+2021-22 Tim Horton’s,53,Kris Letang,N/A,Base
+2021-22 Tim Horton’s,54,Travis Konecny,N/A,Base
+2021-22 Tim Horton’s,55,Sam Reinhart,N/A,Base
+2021-22 Tim Horton’s,56,Marc-Edouard Vlasic,N/A,Base
+2021-22 Tim Horton’s,57,Tyler Seguin,N/A,Base
+2021-22 Tim Horton’s,58,Tyler Toffoli,N/A,Base
+2021-22 Tim Horton’s,59,Jonathan Huberdeau,N/A,Base
+2021-22 Tim Horton’s,60,Jeff Skinner,N/A,Base
+2021-22 Tim Horton’s,61,Barrett Hayton,N/A,Base
+2021-22 Tim Horton’s,62,Brendan Gallagher,N/A,Base
+2021-22 Tim Horton’s,63,Dylan Strome,N/A,Base
+2021-22 Tim Horton’s,64,Jonathan Toews,N/A,Base
+2021-22 Tim Horton’s,65,Jeff Carter,N/A,Base
+2021-22 Tim Horton’s,66,Matt Dumba,N/A,Base
+2021-22 Tim Horton’s,67,Max Domi,N/A,Base
+2021-22 Tim Horton’s,68,Thomas Chabot,N/A,Base
+2021-22 Tim Horton’s,69,Brayden Point,N/A,Base
+2021-22 Tim Horton’s,70,Jonathan Marchessault,N/A,Base
+2021-22 Tim Horton’s,71,Sarah Nurse,N/A,Base
+2021-22 Tim Horton’s,72,Natalie Spooner,N/A,Base
+2021-22 Tim Horton’s,73,Rebecca Johnston,N/A,Base
+2021-22 Tim Horton’s,74,Jocelyne Larocque,N/A,Base
+2021-22 Tim Horton’s,75,Brianne Jenner,N/A,Base
+2021-22 Tim Horton’s,76,Emerance Maschmeyer,N/A,Base
+2021-22 Tim Horton’s,77,Melodie Daoust,N/A,Base
+2021-22 Tim Horton’s,78,Erin Ambrose,N/A,Base
+2021-22 Tim Horton’s,79,Renata Fast,N/A,Base
+2021-22 Tim Horton’s,80,Jamie Lee Rattray,N/A,Base
+2021-22 Tim Horton’s,81,Marie-Philip Poulin,N/A,Base
+2021-22 Tim Horton’s,82,Victoria Bach,N/A,Base
+2021-22 Tim Horton’s,83,Blayre Turnbull,N/A,Base
+2021-22 Tim Horton’s,84,Jillian Saulnier,N/A,Base
+2021-22 Tim Horton’s,85,Ann-Renee Desbiens,N/A,Base
+2021-22 Tim Horton’s,86,Steve Yzerman,N/A,Base
+2021-22 Tim Horton’s,87,Mark Messier,N/A,Base
+2021-22 Tim Horton’s,88,Martin Brodeur,N/A,Base
+2021-22 Tim Horton’s,89,Phil Esposito,N/A,Base
+2021-22 Tim Horton’s,90,Bobby Hull,N/A,Base
+2021-22 Tim Horton’s,91,Guy Lafleur,N/A,Base
+2021-22 Tim Horton’s,92,Joe Sakic,N/A,Base
+2021-22 Tim Horton’s,93,Eric Lindros,N/A,Base
+2021-22 Tim Horton’s,94,Shayne Corson,N/A,Base
+2021-22 Tim Horton’s,95,Marcel Dionne,N/A,Base
+2021-22 Tim Horton’s,96,Jarome Iginla,N/A,Base
+2021-22 Tim Horton’s,97,Grant Fuhr,N/A,Base
+2021-22 Tim Horton’s,98,Paul Coffey,N/A,Base
+2021-22 Tim Horton’s,99,Mario Lemieux,N/A,Base
+2021-22 Tim Horton’s,100,Wayne Gretzky,N/A,Base
+2021-22 Tim Horton’s,M-1,Patrice Bergeron,N/A,Base
+2021-22 Tim Horton’s,M-2,Connor Brown,N/A,Base
+2021-22 Tim Horton’s,M-3,Cale Makar,N/A,Base
+2021-22 Tim Horton’s,M-4,Connor McDavid,N/A,Base
+2021-22 Tim Horton’s,M-5,Sidney Crosby,N/A,Base
+2021-22 Tim Horton’s,M-6,Sam Reinhart,N/A,Base
+2021-22 Tim Horton’s,M-7,Eric Staal,N/A,Base
+2021-22 Tim Horton’s,M-8,Alexis Lafreniere,N/A,Base
+2021-22 Tim Horton’s,M-9,Marie-Philip Poulin,N/A,Base
+2021-22 Tim Horton’s,M-10,Jonathan Toews,N/A,Base
+2021-22 Tim Horton’s,M-11,Shayne Corson,N/A,Base
+2021-22 Tim Horton’s,M-12,Jordan Eberle,N/A,Base
+2021-22 Tim Horton’s,M-13,P.K. Subban,N/A,Base
+2021-22 Tim Horton’s,M-14,Kris Letang,N/A,Base
+2021-22 Tim Horton’s,M-15,Wayne Gretzky,N/A,Base
+2021-22 Tim Horton’s,CC-1,Adam Henrique,N/A,Base
+2021-22 Tim Horton’s,CC-2,Kyle Turris,N/A,Base
+2021-22 Tim Horton’s,CC-3,Connor McDavid,N/A,Base
+2021-22 Tim Horton’s,CC-4,Claude Giroux,N/A,Base
+2021-22 Tim Horton’s,CC-5,Sidney Crosby,N/A,Base
+2021-22 Tim Horton’s,CC-6,Corey Perry,N/A,Base
+2021-22 Tim Horton’s,CC-7,Marie-Philip Poulin,N/A,Base
+2021-22 Tim Horton’s,CC-8,Ryan Getzlaf,N/A,Base
+2021-22 Tim Horton’s,CC-9,Mario Lemieux,N/A,Base
+2021-22 Tim Horton’s,CC-10,Eric Lindros,N/A,Base
+2021-22 Tim Horton’s,CC-11,Dylan Strome,N/A,Base
+2021-22 Tim Horton’s,CC-12,Maxime Comtois,N/A,Base
+2021-22 Tim Horton’s,CC-13,Ryan Nugent-Hopkins,N/A,Base
+2021-22 Tim Horton’s,CC-14,Jaden Schwartz,N/A,Base
+2021-22 Tim Horton’s,CC-15,Wayne Gretzky,N/A,Base
+2021-22 Tim Horton’s,CM-1,Sidney Crosby,N/A,Base
+2021-22 Tim Horton’s,CM-2,Carey Price,N/A,Base
+2021-22 Tim Horton’s,CM-3,Jeff Carter,N/A,Base
+2021-22 Tim Horton’s,CM-4,Brayden Schenn,N/A,Base
+2021-22 Tim Horton’s,CM-5,Brianne Jenner,N/A,Base
+2021-22 Tim Horton’s,CM-6,Patrice Bergeron,N/A,Base
+2021-22 Tim Horton’s,CM-7,Jordan Eberle,N/A,Base
+2021-22 Tim Horton’s,CM-8,Carter Hart,N/A,Base
+2021-22 Tim Horton’s,CM-9,Max Domi,N/A,Base
+2021-22 Tim Horton’s,CM-10,Matt Duchene,N/A,Base
+2021-22 Tim Horton’s,CM-11,John Tavares,N/A,Base
+2021-22 Tim Horton’s,CM-12,Mario Lemieux,N/A,Base
+2021-22 Tim Horton’s,CM-13,Jonathan Toews,N/A,Base
+2021-22 Tim Horton’s,CM-14,Eric Lindros,N/A,Base
+2021-22 Tim Horton’s,CM-15,Wayne Gretzky,N/A,Base
+2021-22 Tim Horton’s,POE-1,Connor McDavid,N/A,Base
+2021-22 Tim Horton’s,POE-2,Carey Price,N/A,Base
+2021-22 Tim Horton’s,POE-3,Patrice Bergeron,N/A,Base
+2021-22 Tim Horton’s,POE-4,Joe Thornton,N/A,Base
+2021-22 Tim Horton’s,POE-5,Alex Pietrangelo,N/A,Base
+2021-22 Tim Horton’s,POE-6,Marie-Philip Poulin,N/A,Base
+2021-22 Tim Horton’s,POE-7,Steve Yzerman,N/A,Base
+2021-22 Tim Horton’s,POE-8,Brayden Point,N/A,Base
+2021-22 Tim Horton’s,POE-9,Joe Sakic,N/A,Base
+2021-22 Tim Horton’s,POE-10,Corey Perry,N/A,Base
+2021-22 Tim Horton’s,POE-11,Eric Lindros,N/A,Base
+2021-22 Tim Horton’s,POE-12,Jarome Iginla,N/A,Base
+2021-22 Tim Horton’s,POE-13,Mike Gartner,N/A,Base
+2021-22 Tim Horton’s,POE-14,Drew Doughty,N/A,Base
+2021-22 Tim Horton’s,POE-15,Brent Seabrook,N/A,Base
+2021-22 Tim Horton’s,T-1,Ryan Nugent-Hopkins/Connor McDavid/Pierre-Luc Dubois,N/A,Base
+2021-22 Tim Horton’s,T-2,Taylor Hall/Claude Giroux/Jason Spezza,N/A,Base
+2021-22 Tim Horton’s,T-3,Jonathan Toews/Carey Price/Kris Letang,N/A,Base
+2021-22 Tim Horton’s,T-4,Nathan MacKinnon/Ryan O'Reilly/Mitch Marner,N/A,Base
+2021-22 Tim Horton’s,T-5,Andrew Mangiapane/Connor Brown/Adam Henrique,N/A,Base
+2021-22 Tim Horton’s,T-6,Marie-Philip Poulin/Natalie Spooner/Rebecca Johnston,N/A,Base
+2021-22 Tim Horton’s,T-7,Sidney Crosby/Patrice Bergeron/Ryan Getzlaf,N/A,Base
+2021-22 Tim Horton’s,T-8,Alexis Lafreniere/Quinton Byfield/Dylan Cozens,N/A,Base
+2021-22 Tim Horton’s,T-9,Guy Lafleur/Bobby Hull/Phil Esposito,N/A,Base
+2021-22 Tim Horton’s,T-10,Anthony Mantha/Mark Stone/Kyle Turris,N/A,Base
+2021-22 Tim Horton’s,T-11,Thomas Chabot/Travis Konecny/Mathew Barzal,N/A,Base
+2021-22 Tim Horton’s,T-12,Wayne Gretzky/Paul Coffey/Eric Lindros,N/A,Base
+2021-22 Tim Horton’s,T-13,P.K. Subban/Jordan Eberle/John Tavares,N/A,Base
+2021-22 Tim Horton’s,T-14,Shea Weber/Jordan Staal/Jonathan Toews,N/A,Base
+2021-22 Tim Horton’s,T-15,Mark Messier/Wayne Gretzky/Mario Lemieux,N/A,Base
+2021-22 Tim Horton’s,J-AC,Anthony Cirelli,N/A,Base
+2021-22 Tim Horton’s,J-AE,Aaron Ekblad,N/A,Base
+2021-22 Tim Horton’s,J-BP,Brayden Point,N/A,Base
+2021-22 Tim Horton’s,J-CH,Carter Hart,N/A,Base
+2021-22 Tim Horton’s,J-DC,Dylan Cozens,N/A,Base
+2021-22 Tim Horton’s,J-JT,Joe Thornton,N/A,Base
+2021-22 Tim Horton’s,J-KD,Kirby Dach,N/A,Base
+2021-22 Tim Horton’s,J-MB,Mathew Barzal,N/A,Base
+2021-22 Tim Horton’s,J-MC,Maxime Comtois,N/A,Base
+2021-22 Tim Horton’s,J-MP,Marie-Philip Poulin,N/A,Base
+2021-22 Tim Horton’s,J-PD,Pierre-Luc Dubois,N/A,Base
+2021-22 Tim Horton’s,J-PK,Peyton Krebs,N/A,Base
+2021-22 Tim Horton’s,J-PM,Patrick Marleau,N/A,Base
+2021-22 Tim Horton’s,J-QB,Quinton Byfield,N/A,Base
+2021-22 Tim Horton’s,J-RG,Ryan Getzlaf,N/A,Base
+2021-22 Tim Horton’s,J-RJ,Rebecca Johnston,N/A,Base
+2021-22 Tim Horton’s,J-TC,Thomas Chabot,N/A,Base
+2021-22 Tim Horton’s,J-TK,Travis Konecny,N/A,Base
+2021-22 Tim Horton’s,AJ-AL,Alexis Lafreniere,N/A,Base
+2021-22 Tim Horton’s,AJ-CM,Connor McDavid,N/A,Base
+2021-22 Tim Horton’s,AJ-JI,Jarome Iginla,N/A,Base
+2021-22 Tim Horton’s,AJ-JT,Jonathan Toews,N/A,Base
+2021-22 Tim Horton’s,AJ-NS,Nick Suzuki,N/A,Base
+2021-22 Tim Horton’s,AJ-QB,Quinton Byfield,N/A,Base
+2021-22 Tim Horton’s,S-BB,Bowen Byram,N/A,Base
+2021-22 Tim Horton’s,S-BH,Barrett Hayton,N/A,Base
+2021-22 Tim Horton’s,S-BS,Brayden Schenn,N/A,Base
+2021-22 Tim Horton’s,S-CH,Carter Hart,N/A,Base
+2021-22 Tim Horton’s,S-CM,Connor McMichael,N/A,Base
+2021-22 Tim Horton’s,S-CT,Cam Talbot,N/A,Base
+2021-22 Tim Horton’s,S-DC,Dylan Cozens,N/A,Base
+2021-22 Tim Horton’s,S-KD,Kirby Dach,N/A,Base
+2021-22 Tim Horton’s,S-MA,Cale Makar,N/A,Base
+2021-22 Tim Horton’s,S-MC,Maxime Comtois,N/A,Base
+2021-22 Tim Horton’s,S-MM,Mitch Marner,N/A,Base
+2021-22 Tim Horton’s,S-PD,Pierre-Luc Dubois,N/A,Base
+2021-22 Tim Horton’s,S-PK,Peyton Krebs,N/A,Base
+2021-22 Tim Horton’s,S-QB,Quinton Byfield,N/A,Base
+2021-22 Tim Horton’s,S-TH,Thomas Harley,N/A,Base
+2021-22 Tim Horton’s,MLA-AL,Alexis Lafreniere,N/A,Base
+2021-22 Tim Horton’s,MLA-BM,Brad Marchand,N/A,Base
+2021-22 Tim Horton’s,MLA-CM,Connor McDavid,N/A,Base
+2021-22 Tim Horton’s,MLA-CP,Carey Price,N/A,Base
+2021-22 Tim Horton’s,MLA-GF,Grant Fuhr,N/A,Base
+2021-22 Tim Horton’s,MLA-JI,Jarome Iginla,N/A,Base
+2021-22 Tim Horton’s,MLA-JS,Joe Sakic,N/A,Base
+2021-22 Tim Horton’s,MLA-JT,Jonathan Toews,N/A,Base
+2021-22 Tim Horton’s,MLA-MA,Mitch Marner,N/A,Base
+2021-22 Tim Horton’s,MLA-ML,Mario Lemieux,N/A,Base
+2021-22 Tim Horton’s,MLA-MM,Mark Messier,N/A,Base
+2021-22 Tim Horton’s,MLA-RF,Renata Fast,N/A,Base
+2021-22 Tim Horton’s,MLA-SC,Shayne Corson,N/A,Base
+2021-22 Tim Horton’s,MLA-SY,Steve Yzerman,N/A,Base
+2021-22 Tim Horton’s,MLA-WG,Wayne Gretzky,N/A,Base
+2021-22 Tim Horton’s,TCA-87,Sidney Crosby,N/A,Base
+2021-22 Tim Horton’s,TCA-9,Sidney Crosby,N/A,Base
+2021-22 Tim Horton’s,TCA-29,Nathan MacKinnon,N/A,Base
+2021-22 Tim Horton’s,TCA-23,Nathan MacKinnon,N/A,Base
+2021-22 Tim Horton’s,FAJ-AL,Alexis Lafreniere,N/A,Base
+2021-22 Tim Horton’s,FAJ-BR,Martin Brodeur,N/A,Base
+2021-22 Tim Horton’s,FAJ-CO,Paul Coffey,N/A,Base
+2021-22 Tim Horton’s,FAJ-CP,Carey Price,N/A,Base
+2021-22 Tim Horton’s,FAJ-CR,Sidney Crosby,N/A,Base
+2021-22 Tim Horton’s,FAJ-DI,Marcel Dionne,N/A,Base
+2021-22 Tim Horton’s,FAJ-ES,Phil Esposito,N/A,Base
+2021-22 Tim Horton’s,FAJ-GF,Grant Fuhr,N/A,Base
+2021-22 Tim Horton’s,FAJ-GR,Wayne Gretzky,N/A,Base
+2021-22 Tim Horton’s,FAJ-JO,Jonathan Toews,N/A,Base
+2021-22 Tim Horton’s,FAJ-JT,John Tavares,N/A,Base
+2021-22 Tim Horton’s,FAJ-LA,Alexis Lafreniere,N/A,Base
+2021-22 Tim Horton’s,FAJ-MA,Mitch Marner,N/A,Base
+2021-22 Tim Horton’s,FAJ-MB,Martin Brodeur,N/A,Base
+2021-22 Tim Horton’s,FAJ-MD,Marcel Dionne,N/A,Base
+2021-22 Tim Horton’s,FAJ-ML,Mario Lemieux,N/A,Base
+2021-22 Tim Horton’s,FAJ-MM,Mitch Marner,N/A,Base
+2021-22 Tim Horton’s,FAJ-PC,Paul Coffey,N/A,Base
+2021-22 Tim Horton’s,FAJ-PE,Phil Esposito,N/A,Base
+2021-22 Tim Horton’s,FAJ-SC,Sidney Crosby,N/A,Base
+2021-22 Tim Horton’s,FAJ-SW,Shea Weber,N/A,Base
+2021-22 Tim Horton’s,FAJ-TA,John Tavares,N/A,Base
+2021-22 Tim Horton’s,FAJ-TO,Jonathan Toews,N/A,Base
+2021-22 Tim Horton’s,FAJ-WG,Wayne Gretzky,N/A,Base
+2021-22 Tim Horton’s,1993,Sidney Crosby,N/A,Base
+2021-22 Tim Horton’s,1993,Brad Marchand,N/A,Base
+2021-22 Tim Horton’s,1999,Brendan Gallagher,N/A,Base
+2021-22 Tim Horton’s,2000,Brayden Point,N/A,Base
+2021-22 Tim Horton’s,2000,Nathan MacKinnon,N/A,Base
+2020-21 Tim Horton’s,1,Tim Horton,Maple Leafs,Base
+2020-21 Tim Horton’s,2,Zdeno Chara,Bruins,Base
+2020-21 Tim Horton’s,3,Seth Jones,Blue Jackets,Base
+2020-21 Tim Horton’s,4,Aaron Ekblad,Panthers,Base
+2020-21 Tim Horton’s,5,Mark Giordano,Flames,Base
+2020-21 Tim Horton’s,6,Brock Boeser,Canucks,Base
+2020-21 Tim Horton’s,7,Brady Tkachuk,Senators,Base
+2020-21 Tim Horton’s,8,Alex Ovechkin,Capitals,Base
+2020-21 Tim Horton’s,9,Jack Eichel,Sabres,Base
+2020-21 Tim Horton’s,10,Artemi Panarin,Rangers,Base
+2020-21 Tim Horton’s,11,Jonathan Huberdeau,Panthers,Base
+2020-21 Tim Horton’s,12,Anze Kopitar,Kings,Base
+2020-21 Tim Horton’s,13,Mathew Barzal,Islanders,Base
+2020-21 Tim Horton’s,14,Sean Couturier,Flyers,Base
+2020-21 Tim Horton’s,15,Johnny Gaudreau,Flames,Base
+2020-21 Tim Horton’s,16,Mitch Marner,Maple Leafs,Base
+2020-21 Tim Horton’s,17,Cale Makar,Avalanche,Base
+2020-21 Tim Horton’s,18,Pierre-Luc Dubois,Blue Jackets,Base
+2020-21 Tim Horton’s,19,Jonathan Toews,Blackhawks,Base
+2020-21 Tim Horton’s,20,Matthew Tkachuk,Flames,Base
+2020-21 Tim Horton’s,21,Brayden Point,Lightning,Base
+2020-21 Tim Horton’s,22,Sergei Bobrovsky,Panthers,Base
+2020-21 Tim Horton’s,23,David Perron,Blues,Base
+2020-21 Tim Horton’s,24,P.K. Subban,Devils,Base
+2020-21 Tim Horton’s,25,Matt Murray,Penguins,Base
+2020-21 Tim Horton’s,26,Blake Wheeler,Jets,Base
+2020-21 Tim Horton’s,27,Max Domi,Canadiens,Base
+2020-21 Tim Horton’s,28,Claude Giroux,Flyers,Base
+2020-21 Tim Horton’s,29,Nathan MacKinnon,Avalanche,Base
+2020-21 Tim Horton’s,30,Patrik Laine,Jets,Base
+2020-21 Tim Horton’s,31,Carey Price,Canadiens,Base
+2020-21 Tim Horton’s,32,Bo Horvat,Canucks,Base
+2020-21 Tim Horton’s,33,Dougie Hamilton,Hurricanes,Base
+2020-21 Tim Horton’s,34,Auston Matthews,Maple Leafs,Base
+2020-21 Tim Horton’s,35,Ryan Getzlaf,Ducks,Base
+2020-21 Tim Horton’s,36,Nico Hischier,Devils,Base
+2020-21 Tim Horton’s,37,Connor Hellebuyck,Jets,Base
+2020-21 Tim Horton’s,38,Sebastian Aho,Hurricanes,Base
+2020-21 Tim Horton’s,39,Shea Weber,Canadiens,Base
+2020-21 Tim Horton’s,40,Elias Pettersson,Canucks,Base
+2020-21 Tim Horton’s,41,Brendan Gallagher,Canadiens,Base
+2020-21 Tim Horton’s,42,Alex DeBrincat,Blackhawks,Base
+2020-21 Tim Horton’s,43,Quinn Hughes,Canucks,Base
+2020-21 Tim Horton’s,44,Eric Staal,Wild,Base
+2020-21 Tim Horton’s,45,James Neal,Oilers,Base
+2020-21 Tim Horton’s,46,Nicklas Backstrom,Capitals,Base
+2020-21 Tim Horton’s,47,Jack Hughes,Devils,Base
+2020-21 Tim Horton’s,48,Zach Parise,Wild,Base
+2020-21 Tim Horton’s,49,Sean Monahan,Flames,Base
+2020-21 Tim Horton’s,50,Jordan Binnington,Blues,Base
+2020-21 Tim Horton’s,51,Jaden Schwartz,Blues,Base
+2020-21 Tim Horton’s,52,Brayden Schenn,Blues,Base
+2020-21 Tim Horton’s,53,John Gibson,Ducks,Base
+2020-21 Tim Horton’s,54,Morgan Rielly,Maple Leafs,Base
+2020-21 Tim Horton’s,55,Mark Scheifele,Jets,Base
+2020-21 Tim Horton’s,56,Kaapo Kakko,Rangers,Base
+2020-21 Tim Horton’s,57,Tuukka Rask,Bruins,Base
+2020-21 Tim Horton’s,58,Kris Letang,Penguins,Base
+2020-21 Tim Horton’s,59,Jake Guentzel,Penguins,Base
+2020-21 Tim Horton’s,60,Evgeni Malkin,Penguins,Base
+2020-21 Tim Horton’s,61,Mark Stone,Golden Knights,Base
+2020-21 Tim Horton’s,62,Anthony Mantha,Red Wings,Base
+2020-21 Tim Horton’s,63,Brad Marchand,Bruins,Base
+2020-21 Tim Horton’s,64,Drew Doughty,Kings,Base
+2020-21 Tim Horton’s,65,Roman Josi,Predators,Base
+2020-21 Tim Horton’s,66,Thomas Chabot,Senators,Base
+2020-21 Tim Horton’s,67,Andrei Svechnikov,Hurricanes,Base
+2020-21 Tim Horton’s,68,David Pastrnak,Bruins,Base
+2020-21 Tim Horton’s,69,Miro Heiskanen,Stars,Base
+2020-21 Tim Horton’s,70,Erik Karlsson,Sharks,Base
+2020-21 Tim Horton’s,71,Dylan Larkin,Red Wings,Base
+2020-21 Tim Horton’s,72,Ben Bishop,Stars,Base
+2020-21 Tim Horton’s,73,Zach Werenski,Blue Jackets,Base
+2020-21 Tim Horton’s,74,John Carlson,Capitals,Base
+2020-21 Tim Horton’s,75,Patrice Bergeron,Bruins,Base
+2020-21 Tim Horton’s,76,Anthony Duclair,Senators,Base
+2020-21 Tim Horton’s,77,Victor Hedman,Lightning,Base
+2020-21 Tim Horton’s,78,Tom Wilson,Capitals,Base
+2020-21 Tim Horton’s,79,Carter Hart,Flyers,Base
+2020-21 Tim Horton’s,80,Leon Draisaitl,Oilers,Base
+2020-21 Tim Horton’s,81,Phil Kessel,Coyotes,Base
+2020-21 Tim Horton’s,82,Kyle Connor,Jets,Base
+2020-21 Tim Horton’s,83,Max Pacioretty,Golden Knights,Base
+2020-21 Tim Horton’s,84,Rasmus Dahlin,Sabres,Base
+2020-21 Tim Horton’s,85,Connor Brown,Senators,Base
+2020-21 Tim Horton’s,86,Nikita Kucherov,Lightning,Base
+2020-21 Tim Horton’s,87,Sidney Crosby,Penguins,Base
+2020-21 Tim Horton’s,88,Patrick Kane,Blackhawks,Base
+2020-21 Tim Horton’s,89,Reilly Smith,Golden Knights,Base
+2020-21 Tim Horton’s,90,Ryan O'Reilly,Blues,Base
+2020-21 Tim Horton’s,91,John Tavares,Maple Leafs,Base
+2020-21 Tim Horton’s,92,Evgeny Kuznetsov,Capitals,Base
+2020-21 Tim Horton’s,93,Ryan Nugent-Hopkins,Oilers,Base
+2020-21 Tim Horton’s,94,Mika Zibanejad,Rangers,Base
+2020-21 Tim Horton’s,95,Matt Duchene,Predators,Base
+2020-21 Tim Horton’s,96,Mikko Rantanen,Avalanche,Base
+2020-21 Tim Horton’s,97,Connor McDavid,Oilers,Base
+2020-21 Tim Horton’s,98,Tyler Bertuzzi,Red Wings,Base
+2020-21 Tim Horton’s,99,Brock Nelson,Islanders,Base
+2020-21 Tim Horton’s,100,Marc-Andre Fleury,Golden Knights,Base
+2020-21 Tim Horton’s,101,Tyler Seguin,Stars,Base
+2020-21 Tim Horton’s,102,Joe Thornton,Sharks,Base
+2020-21 Tim Horton’s,103,Tomas Tatar,Canadiens,Base
+2020-21 Tim Horton’s,104,Gabriel Landeskog,Avalanche,Base
+2020-21 Tim Horton’s,105,Taylor Hall,Coyotes,Base
+2020-21 Tim Horton’s,106,Teuvo Teravainen,Hurricanes,Base
+2020-21 Tim Horton’s,107,Clayton Keller,Coyotes,Base
+2020-21 Tim Horton’s,108,Travis Konecny,Flyers,Base
+2020-21 Tim Horton’s,109,Ryan Suter,Wild,Base
+2020-21 Tim Horton’s,110,Andrei Vasilevskiy,Lightning,Base
+2020-21 Tim Horton’s,111,J.T. Miller,Canucks,Base
+2020-21 Tim Horton’s,112,Vladimir Tarasenko,Blues,Base
+2020-21 Tim Horton’s,113,Sam Reinhart,Sabres,Base
+2020-21 Tim Horton’s,114,William Karlsson,Golden Knights,Base
+2020-21 Tim Horton’s,115,Frederik Andersen,Maple Leafs,Base
+2020-21 Tim Horton’s,116,Henrik Lundqvist,Rangers,Base
+2020-21 Tim Horton’s,117,Jamie Benn,Stars,Base
+2020-21 Tim Horton’s,118,Tony DeAngelo,Rangers,Base
+2020-21 Tim Horton’s,119,Brent Burns,Sharks,Base
+2020-21 Tim Horton’s,120,Steven Stamkos,Lightning,Base
+2020-21 Tim Horton’s,121,Adam Henrique,Ducks,Base
+2020-21 Tim Horton’s,122,Pekka Rinne,Predators,Base
+2020-21 Tim Horton’s,123,Jeff Carter,Kings,Base
+2020-21 Tim Horton’s,124,Aleksander Barkov,Panthers,Base
+2020-21 Tim Horton’s,125,Anders Lee,Islanders,Base
+2020-21 Tim Horton’s,DC-1,Tim Horton,Maple Leafs,Base
+2020-21 Tim Horton’s,DC-2,Brock Boeser,Canucks,Base
+2020-21 Tim Horton’s,DC-3,Brady Tkachuk,Senators,Base
+2020-21 Tim Horton’s,DC-4,Alex Ovechkin,Capitals,Base
+2020-21 Tim Horton’s,DC-5,Jack Eichel,Sabres,Base
+2020-21 Tim Horton’s,DC-6,Artemi Panarin,Rangers,Base
+2020-21 Tim Horton’s,DC-7,Mathew Barzal,Islanders,Base
+2020-21 Tim Horton’s,DC-8,Johnny Gaudreau,Flames,Base
+2020-21 Tim Horton’s,DC-9,Mitch Marner,Maple Leafs,Base
+2020-21 Tim Horton’s,DC-10,Cale Makar,Avalanche,Base
+2020-21 Tim Horton’s,DC-11,Jonathan Toews,Blackhawks,Base
+2020-21 Tim Horton’s,DC-12,Matthew Tkachuk,Flames,Base
+2020-21 Tim Horton’s,DC-13,Mark Scheifele,Jets,Base
+2020-21 Tim Horton’s,DC-14,Max Domi,Canadiens,Base
+2020-21 Tim Horton’s,DC-15,Claude Giroux,Flyers,Base
+2020-21 Tim Horton’s,DC-16,Nathan MacKinnon,Avalanche,Base
+2020-21 Tim Horton’s,DC-17,Patrik Laine,Jets,Base
+2020-21 Tim Horton’s,DC-18,Carey Price,Canadiens,Base
+2020-21 Tim Horton’s,DC-19,Auston Matthews,Maple Leafs,Base
+2020-21 Tim Horton’s,DC-20,Shea Weber,Canadiens,Base
+2020-21 Tim Horton’s,DC-21,Elias Pettersson,Canucks,Base
+2020-21 Tim Horton’s,DC-22,Quinn Hughes,Canucks,Base
+2020-21 Tim Horton’s,DC-23,Nicklas Backstrom,Capitals,Base
+2020-21 Tim Horton’s,DC-24,Jordan Binnington,Blues,Base
+2020-21 Tim Horton’s,DC-25,Sidney Crosby,Penguins,Base
+2020-21 Tim Horton’s,DC-26,Connor Hellebuyck,Jets,Base
+2020-21 Tim Horton’s,DC-27,Evgeni Malkin,Penguins,Base
+2020-21 Tim Horton’s,DC-28,Mark Stone,Golden Knights,Base
+2020-21 Tim Horton’s,DC-29,Brad Marchand,Bruins,Base
+2020-21 Tim Horton’s,DC-30,Drew Doughty,Kings,Base
+2020-21 Tim Horton’s,DC-31,Roman Josi,Predators,Base
+2020-21 Tim Horton’s,DC-32,David Pastrnak,Bruins,Base
+2020-21 Tim Horton’s,DC-33,Erik Karlsson,Sharks,Base
+2020-21 Tim Horton’s,DC-34,Dylan Larkin,Red Wings,Base
+2020-21 Tim Horton’s,DC-35,John Carlson,Capitals,Base
+2020-21 Tim Horton’s,DC-36,Patrice Bergeron,Bruins,Base
+2020-21 Tim Horton’s,DC-37,Carter Hart,Flyers,Base
+2020-21 Tim Horton’s,DC-38,Leon Draisaitl,Oilers,Base
+2020-21 Tim Horton’s,DC-39,Nikita Kucherov,Lightning,Base
+2020-21 Tim Horton’s,DC-40,Patrick Kane,Blackhawks,Base
+2020-21 Tim Horton’s,DC-41,Ryan O'Reilly,Blues,Base
+2020-21 Tim Horton’s,DC-42,John Tavares,Maple Leafs,Base
+2020-21 Tim Horton’s,DC-43,Mikko Rantanen,Avalanche,Base
+2020-21 Tim Horton’s,DC-44,Connor McDavid,Oilers,Base
+2020-21 Tim Horton’s,DC-45,Marc-Andre Fleury,Golden Knights,Base
+2020-21 Tim Horton’s,DC-46,Taylor Hall,Coyotes,Base
+2020-21 Tim Horton’s,DC-47,Andrei Vasilevskiy,Lightning,Base
+2020-21 Tim Horton’s,DC-48,Mika Zibanejad,Rangers,Base
+2020-21 Tim Horton’s,DC-49,Henrik Lundqvist,Rangers,Base
+2020-21 Tim Horton’s,DC-50,Steven Stamkos,Lightning,Base
+2020-21 Tim Horton’s,DP-1,#1 Draft Pick,None,Base
+2020-21 Tim Horton’s,AS-1,Connor McDavid,Oilers,Base
+2020-21 Tim Horton’s,AS-2,Elias Pettersson,Canucks,Base
+2020-21 Tim Horton’s,AS-3,Shea Weber,Canadiens,Base
+2020-21 Tim Horton’s,AS-4,Matthew Tkachuk,Flames,Base
+2020-21 Tim Horton’s,AS-5,David Pastrnak,Bruins,Base
+2020-21 Tim Horton’s,AS-6,Brady Tkachuk,Senators,Base
+2020-21 Tim Horton’s,AS-7,Ryan O'Reilly,Blues,Base
+2020-21 Tim Horton’s,AS-8,Connor Hellebuyck,Jets,Base
+2020-21 Tim Horton’s,AS-9,Patrick Kane,Blackhawks,Base
+2020-21 Tim Horton’s,AS-10,Nathan MacKinnon,Avalanche,Base
+2020-21 Tim Horton’s,AS-11,Jordan Binnington,Blues,Base
+2020-21 Tim Horton’s,AS-12,Leon Draisaitl,Oilers,Base
+2020-21 Tim Horton’s,AS-13,Mathew Barzal,Islanders,Base
+2020-21 Tim Horton’s,AS-14,Quinn Hughes,Canucks,Base
+2020-21 Tim Horton’s,AS-15,Mitch Marner,Maple Leafs,Base
+2020-21 Tim Horton’s,CC-1,Connor McDavid,Oilers,Base
+2020-21 Tim Horton’s,CC-2,Elias Pettersson,Canucks,Base
+2020-21 Tim Horton’s,CC-3,Patrik Laine,Jets,Base
+2020-21 Tim Horton’s,CC-4,Matthew Tkachuk,Flames,Base
+2020-21 Tim Horton’s,CC-5,Mitch Marner,Maple Leafs,Base
+2020-21 Tim Horton’s,CC-6,Cale Makar,Avalanche,Base
+2020-21 Tim Horton’s,CC-7,Auston Matthews,Maple Leafs,Base
+2020-21 Tim Horton’s,CC-8,Thomas Chabot,Senators,Base
+2020-21 Tim Horton’s,CC-9,Brock Boeser,Canucks,Base
+2020-21 Tim Horton’s,CC-10,Quinn Hughes,Canucks,Base
+2020-21 Tim Horton’s,CC-11,Kyle Connor,Jets,Base
+2020-21 Tim Horton’s,CC-12,Rasmus Dahlin,Sabres,Base
+2020-21 Tim Horton’s,CC-13,Mathew Barzal,Islanders,Base
+2020-21 Tim Horton’s,CC-14,Brady Tkachuk,Senators,Base
+2020-21 Tim Horton’s,CC-15,Jack Eichel,Sabres,Base
+2020-21 Tim Horton’s,CW-1,Sidney Crosby,Penguins,Base
+2020-21 Tim Horton’s,CW-2,Drew Doughty,Kings,Base
+2020-21 Tim Horton’s,CW-3,Patrice Bergeron,Bruins,Base
+2020-21 Tim Horton’s,CW-4,Evgeni Malkin,Penguins,Base
+2020-21 Tim Horton’s,CW-5,Jonathan Toews,Blackhawks,Base
+2020-21 Tim Horton’s,CW-6,John Carlson,Capitals,Base
+2020-21 Tim Horton’s,CW-7,Duncan Keith,Blackhawks,Base
+2020-21 Tim Horton’s,CW-8,Anze Kopitar,Kings,Base
+2020-21 Tim Horton’s,CW-9,Ryan Getzlaf,Ducks,Base
+2020-21 Tim Horton’s,CW-10,Patrick Kane,Blackhawks,Base
+2020-21 Tim Horton’s,CW-11,Jordan Binnington,Blues,Base
+2020-21 Tim Horton’s,CW-12,Zdeno Chara,Bruins,Base
+2020-21 Tim Horton’s,CW-13,Brad Marchand,Bruins,Base
+2020-21 Tim Horton’s,CW-14,Nicklas Backstrom,Capitals,Base
+2020-21 Tim Horton’s,CW-15,Alex Ovechkin,Capitals,Base
+2020-21 Tim Horton’s,T-1,Leon Draisaitl/Connor McDavid/Ryan Nugent-Hopkins,Oilers/Oilers/Oilers,Base
+2020-21 Tim Horton’s,T-2,Mark Scheifele/Patrik Laine/Connor Hellebuyck,Jets/Jets/Jets,Base
+2020-21 Tim Horton’s,T-3,Jordan Binnington/Ryan O'Reilly/Vladimir Tarasenko,Blues/Blues/Blues,Base
+2020-21 Tim Horton’s,T-4,Nikita Kucherov/Steven Stamkos/Victor Hedman,Lightning/Lightning/Lightning,Base
+2020-21 Tim Horton’s,T-5,Brock Boeser/Elias Pettersson/Quinn Hughes,Canucks/Canucks/Canucks,Base
+2020-21 Tim Horton’s,T-6,Matthew Tkachuk/Johnny Gaudreau/Sean Monahan,Flames/Flames/Flames,Base
+2020-21 Tim Horton’s,T-7,Nicklas Backstrom/Alex Ovechkin/John Carlson,Capitals/Capitals/Capitals,Base
+2020-21 Tim Horton’s,T-8,Mikko Rantanen/Nathan MacKinnon/Cale Makar,Avalanche/Avalanche/Avalanche,Base
+2020-21 Tim Horton’s,T-9,Mark Stone/Marc-Andre Fleury/Max Pacioretty,Golden Knights/Golden Knights/Golden Knights,Base
+2020-21 Tim Horton’s,T-10,Auston Matthews/John Tavares/Mitch Marner,Maple Leafs/Maple Leafs/Maple Leafs,Base
+2020-21 Tim Horton’s,T-11,Brady Tkachuk/Thomas Chabot/Anthony Duclair,Senators/Senators/Senators,Base
+2020-21 Tim Horton’s,T-12,Anthony Mantha/Dylan Larkin/Tyler Bertuzzi,Red Wings/Red Wings/Red Wings,Base
+2020-21 Tim Horton’s,T-13,Artemi Panarin/Mika Zibanejad/Kaapo Kakko,Rangers/Rangers/Rangers,Base
+2020-21 Tim Horton’s,T-14,Patrick Kane/Jonathan Toews/Alex DeBrincat,Blackhawks/Blackhawks/Blackhawks,Base
+2020-21 Tim Horton’s,T-15,Carey Price/Shea Weber/Max Domi,Canadiens/Canadiens/Canadiens,Base
+2020-21 Tim Horton’s,T-16,Rasmus Dahlin/Jack Eichel/Victor Olofsson,Sabres/Sabres/Sabres,Base
+2020-21 Tim Horton’s,T-17,Sean Couturier/Claude Giroux/Carter Hart,Flyers/Flyers/Flyers,Base
+2020-21 Tim Horton’s,T-18,Tyler Seguin/Jamie Benn/Ben Bishop,Stars/Stars/Stars,Base
+2020-21 Tim Horton’s,T-19,Matt Duchene/Roman Josi/Pekka Rinne,Predators/Predators/Predators,Base
+2020-21 Tim Horton’s,T-20,Evgeni Malkin/Sidney Crosby/Kris Letang,Penguins/Penguins/Penguins,Base
+2020-21 Tim Horton’s,G-1,Connor McDavid,Oilers,Base
+2020-21 Tim Horton’s,G-2,John Tavares,Maple Leafs,Base
+2020-21 Tim Horton’s,G-3,Elias Pettersson,Canucks,Base
+2020-21 Tim Horton’s,G-4,Johnny Gaudreau,Flames,Base
+2020-21 Tim Horton’s,G-5,Nathan MacKinnon,Avalanche,Base
+2020-21 Tim Horton’s,G-6,David Pastrnak,Bruins,Base
+2020-21 Tim Horton’s,G-7,Ryan O'Reilly,Blues,Base
+2020-21 Tim Horton’s,G-8,Auston Matthews,Maple Leafs,Base
+2020-21 Tim Horton’s,G-9,Carey Price,Canadiens,Base
+2020-21 Tim Horton’s,G-10,Alex Ovechkin,Capitals,Base
+2020-21 Tim Horton’s,G-11,Artemi Panarin,Rangers,Base
+2020-21 Tim Horton’s,G-12,Jack Eichel,Sabres,Base
+2020-21 Tim Horton’s,G-13,Steven Stamkos,Lightning,Base
+2020-21 Tim Horton’s,G-14,Leon Draisaitl,Oilers,Base
+2020-21 Tim Horton’s,G-15,Sidney Crosby,Penguins,Base
+2020-21 Tim Horton’s,C-1,Connor McDavid,Oilers,Base
+2020-21 Tim Horton’s,C-2,Brad Marchand,Bruins,Base
+2020-21 Tim Horton’s,C-3,Leon Draisaitl,Oilers,Base
+2020-21 Tim Horton’s,C-4,Patrick Kane,Blackhawks,Base
+2020-21 Tim Horton’s,C-5,Nathan MacKinnon,Avalanche,Base
+2020-21 Tim Horton’s,C-6,Artemi Panarin,Rangers,Base
+2020-21 Tim Horton’s,C-7,Alex Ovechkin,Capitals,Base
+2020-21 Tim Horton’s,C-8,David Pastrnak,Bruins,Base
+2020-21 Tim Horton’s,C-9,Steven Stamkos,Lightning,Base
+2020-21 Tim Horton’s,C-10,Auston Matthews,Maple Leafs,Base
+2020-21 Tim Horton’s,C-11,Carey Price,Canadiens,Base
+2020-21 Tim Horton’s,C-12,Mitch Marner,Maple Leafs,Base
+2020-21 Tim Horton’s,C-13,Jack Eichel,Sabres,Base
+2020-21 Tim Horton’s,C-14,Mika Zibanejad,Rangers,Base
+2020-21 Tim Horton’s,C-15,Sidney Crosby,Penguins,Base
+2020-21 Tim Horton’s,J-AM,Auston Matthews,Maple Leafs,Base
+2020-21 Tim Horton’s,J-AO,Alex Ovechkin,Capitals,Base
+2020-21 Tim Horton’s,J-AP,Artemi Panarin,Rangers,Base
+2020-21 Tim Horton’s,J-BM,Brad Marchand,Bruins,Base
+2020-21 Tim Horton’s,J-BT,Brady Tkachuk,Senators,Base
+2020-21 Tim Horton’s,J-CH,Connor Hellebuyck,Jets,Base
+2020-21 Tim Horton’s,J-CM,Connor McDavid,Oilers,Base
+2020-21 Tim Horton’s,J-CP,Carey Price,Canadiens,Base
+2020-21 Tim Horton’s,J-DP,David Pastrnak,Bruins,Base
+2020-21 Tim Horton’s,J-EP,Elias Pettersson,Canucks,Base
+2020-21 Tim Horton’s,J-JE,Jack Eichel,Sabres,Base
+2020-21 Tim Horton’s,J-JG,Johnny Gaudreau,Flames,Base
+2020-21 Tim Horton’s,J-LD,Leon Draisaitl,Oilers,Base
+2020-21 Tim Horton’s,J-MM,Mitch Marner,Maple Leafs,Base
+2020-21 Tim Horton’s,J-MS,Mark Scheifele,Jets,Base
+2020-21 Tim Horton’s,J-RO,Ryan O'Reilly,Blues,Base
+2020-21 Tim Horton’s,J-SC,Sidney Crosby,Penguins,Base
+2020-21 Tim Horton’s,J-SS,Steven Stamkos,Lightning,Base
+2020-21 Tim Horton’s,SJ-BT,Brady Tkachuk,Senators,Base
+2020-21 Tim Horton’s,SJ-CP,Carey Price,Canadiens,Base
+2020-21 Tim Horton’s,SJ-EP,Elias Pettersson,Canucks,Base
+2020-21 Tim Horton’s,SJ-LD,Leon Draisaitl,Oilers,Base
+2020-21 Tim Horton’s,SJ-MM,Mitch Marner,Maple Leafs,Base
+2020-21 Tim Horton’s,SJ-SM,Sean Monahan,Flames,Base
+2020-21 Tim Horton’s,S-AL,Adam Lowry,Jets,Base
+2020-21 Tim Horton’s,S-BT,Brady Tkachuk,Senators,Base
+2020-21 Tim Horton’s,S-CM,Cale Makar,Avalanche,Base
+2020-21 Tim Horton’s,S-VA,Viktor Arvidsson,Predators,Base
+2020-21 Tim Horton’s,S-FZ,Filip Zadina,Red Wings,Base
+2020-21 Tim Horton’s,S-JV,Jimmy Vesey,Sabres,Base
+2020-21 Tim Horton’s,S-MS,Mark Scheifele,Jets,Base
+2020-21 Tim Horton’s,S-MP,Max Pacioretty,Golden Knights,Base
+2020-21 Tim Horton’s,S-MF,Micheal Ferland,Canucks,Base
+2020-21 Tim Horton’s,S-AE,Aaron Ekblad,Panthers,Base
+2020-21 Tim Horton’s,S-NH,Noah Hanifin,Flames,Base
+2020-21 Tim Horton’s,S-PD,Phillip Danault,Canadiens,Base
+2020-21 Tim Horton’s,S-QH,Quinn Hughes,Canucks,Base
+2020-21 Tim Horton’s,S-RP,Ryan Poehling,Canadiens,Base
+2020-21 Tim Horton’s,S-TP,Tanner Pearson,Penguins,Base
+2020-21 Tim Horton’s,SS-SC,Sidney Crosby,Penguins,Base
+2020-21 Tim Horton’s,SS-NM,Nathan MacKinnon,Avalanche,Base
+2020-21 Tim Horton’s,2000,Brayden Point,Lightning,Base
+2020-21 Tim Horton’s,WGT-1,Wayne Gretzky,Oilers,Base
+2019-20 Tim Horton’s,1,Tim Horton,Maple Leafs,Base
+2019-20 Tim Horton’s,2,Duncan Keith,Blackhawks,Base
+2019-20 Tim Horton’s,3,Filip Zadina,Red Wings,Base
+2019-20 Tim Horton’s,4,Miro Heiskanen,Stars,Base
+2019-20 Tim Horton’s,5,Mark Giordano,Flames,Base
+2019-20 Tim Horton’s,6,Brock Boeser,Canucks,Base
+2019-20 Tim Horton’s,7,Brady Tkachuk,Senators,Base
+2019-20 Tim Horton’s,8,Alexander Ovechkin,Capitals,Base
+2019-20 Tim Horton’s,9,Jack Eichel,Sabres,Base
+2019-20 Tim Horton’s,10,Jordan Binnington,Blues,Base
+2019-20 Tim Horton’s,11,Zach Parise,Wild,Base
+2019-20 Tim Horton’s,12,Josh Bailey,Islanders,Base
+2019-20 Tim Horton’s,13,Johnny Gaudreau,Flames,Base
+2019-20 Tim Horton’s,14,Jamie Benn,Stars,Base
+2019-20 Tim Horton’s,15,Ryan Getzlaf,Ducks,Base
+2019-20 Tim Horton’s,16,Mitch Marner,Maple Leafs,Base
+2019-20 Tim Horton’s,17,Victor Hedman,Lightning,Base
+2019-20 Tim Horton’s,18,Pierre-Luc Dubois,Blue Jackets,Base
+2019-20 Tim Horton’s,19,Jonathan Toews,Blackhawks,Base
+2019-20 Tim Horton’s,20,Sebastian Aho,Hurricanes,Base
+2019-20 Tim Horton’s,21,Brayden Point,Lightning,Base
+2019-20 Tim Horton’s,22,Carter Hart,Flyers,Base
+2019-20 Tim Horton’s,23,Sean Monahan,Flames,Base
+2019-20 Tim Horton’s,24,Jonathan Huberdeau,Panthers,Base
+2019-20 Tim Horton’s,25,Nico Hischier,Devils,Base
+2019-20 Tim Horton’s,26,Blake Wheeler,Jets,Base
+2019-20 Tim Horton’s,27,Filip Forsberg,Predators,Base
+2019-20 Tim Horton’s,28,Claude Giroux,Flyers,Base
+2019-20 Tim Horton’s,29,Nathan MacKinnon,Avalanche,Base
+2019-20 Tim Horton’s,30,Henrik Lundqvist,Rangers,Base
+2019-20 Tim Horton’s,31,Carey Price,Canadiens,Base
+2019-20 Tim Horton’s,32,Sean Couturier,Flyers,Base
+2019-20 Tim Horton’s,33,Sam Reinhart,Sabres,Base
+2019-20 Tim Horton’s,34,Auston Matthews,Maple Leafs,Base
+2019-20 Tim Horton’s,35,Pekka Rinne,Predators,Base
+2019-20 Tim Horton’s,36,John Gibson,Ducks,Base
+2019-20 Tim Horton’s,37,Patrice Bergeron,Bruins,Base
+2019-20 Tim Horton’s,38,Joe Pavelski,Sharks,Base
+2019-20 Tim Horton’s,39,Aleksander Barkov,Panthers,Base
+2019-20 Tim Horton’s,40,Taylor Hall,Devils,Base
+2019-20 Tim Horton’s,41,Jake Guentzel,Penguins,Base
+2019-20 Tim Horton’s,42,Elias Lindholm,Flames,Base
+2019-20 Tim Horton’s,43,Anthony Mantha,Red Wings,Base
+2019-20 Tim Horton’s,44,Morgan Rielly,Maple Leafs,Base
+2019-20 Tim Horton’s,45,Joe Thornton,Sharks,Base
+2019-20 Tim Horton’s,46,Cale Makar,Avalanche,Base
+2019-20 Tim Horton’s,47,Kyle Connor,Jets,Base
+2019-20 Tim Horton’s,48,Connor Hellebuyck,Jets,Base
+2019-20 Tim Horton’s,49,Aaron Ekblad,Panthers,Base
+2019-20 Tim Horton’s,50,Patrik Laine,Jets,Base
+2019-20 Tim Horton’s,51,Rasmus Dahlin,Sabres,Base
+2019-20 Tim Horton’s,52,Chris Kreider,Rangers,Base
+2019-20 Tim Horton’s,53,Bo Horvat,Canucks,Base
+2019-20 Tim Horton’s,54,Jonathan Quick,Kings,Base
+2019-20 Tim Horton’s,55,Mark Scheifele,Jets,Base
+2019-20 Tim Horton’s,56,Devan Dubnyk,Wild,Base
+2019-20 Tim Horton’s,57,Ryan Poehling,Canadiens,Base
+2019-20 Tim Horton’s,58,Kris Letang,Penguins,Base
+2019-20 Tim Horton’s,59,Roman Josi,Predators,Base
+2019-20 Tim Horton’s,60,Drew Doughty,Kings,Base
+2019-20 Tim Horton’s,61,Colin White,Senators,Base
+2019-20 Tim Horton’s,62,David Krejci,Bruins,Base
+2019-20 Tim Horton’s,63,Brad Marchand,Bruins,Base
+2019-20 Tim Horton’s,64,Eric Staal,Wild,Base
+2019-20 Tim Horton’s,65,Erik Karlsson,Sharks,Base
+2019-20 Tim Horton’s,66,Alexander Radulov,Stars,Base
+2019-20 Tim Horton’s,67,Max Pacioretty,Golden Knights,Base
+2019-20 Tim Horton’s,68,Anders Lee,Islanders,Base
+2019-20 Tim Horton’s,69,Cam Atkinson,Blue Jackets,Base
+2019-20 Tim Horton’s,70,Braden Holtby,Capitals,Base
+2019-20 Tim Horton’s,71,Evgeni Malkin,Penguins,Base
+2019-20 Tim Horton’s,72,Andreas Athanasiou,Red Wings,Base
+2019-20 Tim Horton’s,73,Mark Stone,Golden Knights,Base
+2019-20 Tim Horton’s,74,John Carlson,Capitals,Base
+2019-20 Tim Horton’s,75,Frederik Andersen,Maple Leafs,Base
+2019-20 Tim Horton’s,76,P.K. Subban,Predators,Base
+2019-20 Tim Horton’s,77,Ryan Nugent-Hopkins,Oilers,Base
+2019-20 Tim Horton’s,78,William Karlsson,Golden Knights,Base
+2019-20 Tim Horton’s,79,Elias Pettersson,Canucks,Base
+2019-20 Tim Horton’s,80,Artemi Panarin,Blue Jackets,Base
+2019-20 Tim Horton’s,81,Phil Kessel,Penguins,Base
+2019-20 Tim Horton’s,82,Logan Couture,Sharks,Base
+2019-20 Tim Horton’s,83,Quinn Hughes,Canucks,Base
+2019-20 Tim Horton’s,84,Evgeny Kuznetsov,Capitals,Base
+2019-20 Tim Horton’s,85,Leon Draisaitl,Oilers,Base
+2019-20 Tim Horton’s,86,Nikita Kucherov,Lightning,Base
+2019-20 Tim Horton’s,87,Sidney Crosby,Penguins,Base
+2019-20 Tim Horton’s,88,Patrick Kane,Blackhawks,Base
+2019-20 Tim Horton’s,89,Alex DeBrincat,Blackhawks,Base
+2019-20 Tim Horton’s,90,Ryan O'Reilly,Blues,Base
+2019-20 Tim Horton’s,91,John Tavares,Maple Leafs,Base
+2019-20 Tim Horton’s,92,Gabriel Landeskog,Avalanche,Base
+2019-20 Tim Horton’s,93,Mika Zibanejad,Rangers,Base
+2019-20 Tim Horton’s,94,Martin Jones,Sharks,Base
+2019-20 Tim Horton’s,95,Dylan Strome,Blackhawks,Base
+2019-20 Tim Horton’s,96,Mikko Rantanen,Avalanche,Base
+2019-20 Tim Horton’s,97,Connor McDavid,Oilers,Base
+2019-20 Tim Horton’s,98,Shea Weber,Canadiens,Base
+2019-20 Tim Horton’s,99,Brendan Gallagher,Canadiens,Base
+2019-20 Tim Horton’s,100,Brent Burns,Sharks,Base
+2019-20 Tim Horton’s,101,Tyler Seguin,Stars,Base
+2019-20 Tim Horton’s,102,Jeff Skinner,Sabres,Base
+2019-20 Tim Horton’s,103,Thomas Chabot,Senators,Base
+2019-20 Tim Horton’s,104,Kyle Palmieri,Devils,Base
+2019-20 Tim Horton’s,105,David Pastrnak,Bruins,Base
+2019-20 Tim Horton’s,106,Max Domi,Canadiens,Base
+2019-20 Tim Horton’s,107,Nicklas Backstrom,Capitals,Base
+2019-20 Tim Horton’s,108,Teuvo Teravainen,Hurricanes,Base
+2019-20 Tim Horton’s,109,Matthew Tkachuk,Flames,Base
+2019-20 Tim Horton’s,110,Dylan Larkin,Red Wings,Base
+2019-20 Tim Horton’s,111,Clayton Keller,Coyotes,Base
+2019-20 Tim Horton’s,112,Marc-Andre Fleury,Golden Knights,Base
+2019-20 Tim Horton’s,113,Jakub Voracek,Flyers,Base
+2019-20 Tim Horton’s,114,Vladimir Tarasenko,Blues,Base
+2019-20 Tim Horton’s,115,Mathew Barzal,Islanders,Base
+2019-20 Tim Horton’s,116,Oliver Ekman-Larsson,Coyotes,Base
+2019-20 Tim Horton’s,117,Andrei Vasilevskiy,Lightning,Base
+2019-20 Tim Horton’s,118,Jonathan Drouin,Canadiens,Base
+2019-20 Tim Horton’s,119,Anze Kopitar,Kings,Base
+2019-20 Tim Horton’s,120,Steven Stamkos,Lightning,Base
+2019-20 Tim Horton’s,DC-1,Brady Tkachuk,Senators,Base
+2019-20 Tim Horton’s,DC-2,Alexander Ovechkin,Capitals,Base
+2019-20 Tim Horton’s,DC-3,Jack Eichel,Sabres,Base
+2019-20 Tim Horton’s,DC-4,Jordan Binnington,Blues,Base
+2019-20 Tim Horton’s,DC-5,Johnny Gaudreau,Flames,Base
+2019-20 Tim Horton’s,DC-6,Jamie Benn,Stars,Base
+2019-20 Tim Horton’s,DC-7,Ryan Getzlaf,Ducks,Base
+2019-20 Tim Horton’s,DC-8,Pierre-Luc Dubois,Blue Jackets,Base
+2019-20 Tim Horton’s,DC-9,Jonathan Toews,Blackhawks,Base
+2019-20 Tim Horton’s,DC-10,Sebastian Aho,Hurricanes,Base
+2019-20 Tim Horton’s,DC-11,Carter Hart,Flyers,Base
+2019-20 Tim Horton’s,DC-12,Nathan MacKinnon,Avalanche,Base
+2019-20 Tim Horton’s,DC-13,Henrik Lundqvist,Rangers,Base
+2019-20 Tim Horton’s,DC-14,Carey Price,Canadiens,Base
+2019-20 Tim Horton’s,DC-15,Auston Matthews,Maple Leafs,Base
+2019-20 Tim Horton’s,DC-16,Patrice Bergeron,Bruins,Base
+2019-20 Tim Horton’s,DC-17,Brent Burns,Sharks,Base
+2019-20 Tim Horton’s,DC-18,Taylor Hall,Devils,Base
+2019-20 Tim Horton’s,DC-19,Cale Makar,Avalanche,Base
+2019-20 Tim Horton’s,DC-20,Aaron Ekblad,Panthers,Base
+2019-20 Tim Horton’s,DC-21,Mark Scheifele,Jets,Base
+2019-20 Tim Horton’s,DC-22,Drew Doughty,Kings,Base
+2019-20 Tim Horton’s,DC-23,Eric Staal,Wild,Base
+2019-20 Tim Horton’s,DC-24,P.K. Subban,Predators,Base
+2019-20 Tim Horton’s,DC-25,Elias Pettersson,Canucks,Base
+2019-20 Tim Horton’s,DC-26,Ryan Poehling,Canadiens,Base
+2019-20 Tim Horton’s,DC-27,Sidney Crosby,Penguins,Base
+2019-20 Tim Horton’s,DC-28,Connor McDavid,Oilers,Base
+2019-20 Tim Horton’s,DC-29,Dylan Larkin,Red Wings,Base
+2019-20 Tim Horton’s,DC-30,Clayton Keller,Coyotes,Base
+2019-20 Tim Horton’s,DC-31,Marc-Andre Fleury,Golden Knights,Base
+2019-20 Tim Horton’s,DC-32,Mathew Barzal,Islanders,Base
+2019-20 Tim Horton’s,DC-33,Steven Stamkos,Lightning,Base
+2019-20 Tim Horton’s,DC-SP1,Tim Horton,Maple Leafs,Base
+2019-20 Tim Horton’s,R1,#1 Draft Pick,None,Base
+2019-20 Tim Horton’s,R2,#1 Draft Pick,None,Base
+2019-20 Tim Horton’s,CC-1,Connor McDavid,Oilers,Base
+2019-20 Tim Horton’s,CC-2,Carter Hart,Flyers,Base
+2019-20 Tim Horton’s,CC-3,Mitch Marner,Maple Leafs,Base
+2019-20 Tim Horton’s,CC-4,Jack Eichel,Sabres,Base
+2019-20 Tim Horton’s,CC-5,David Pastrnak,Bruins,Base
+2019-20 Tim Horton’s,CC-6,Mikko Rantanen,Avalanche,Base
+2019-20 Tim Horton’s,CC-7,Dylan Larkin,Red Wings,Base
+2019-20 Tim Horton’s,CC-8,Patrik Laine,Jets,Base
+2019-20 Tim Horton’s,CC-9,Rasmus Dahlin,Sabres,Base
+2019-20 Tim Horton’s,CC-10,Elias Pettersson,Canucks,Base
+2019-20 Tim Horton’s,CC-11,Miro Heiskanen,Stars,Base
+2019-20 Tim Horton’s,CC-12,Brady Tkachuk,Senators,Base
+2019-20 Tim Horton’s,CC-13,Mathew Barzal,Islanders,Base
+2019-20 Tim Horton’s,CC-14,Matthew Tkachuk,Flames,Base
+2019-20 Tim Horton’s,CC-15,Auston Matthews,Maple Leafs,Base
+2019-20 Tim Horton’s,D-1,Auston Matthews/John Tavares,Maple Leafs/Maple Leafs,Base
+2019-20 Tim Horton’s,D-2,Elias Pettersson/Brock Boeser,Canucks/Canucks,Base
+2019-20 Tim Horton’s,D-3,Carey Price/Max Domi,Canadiens/Canadiens,Base
+2019-20 Tim Horton’s,D-4,Mark Scheifele/Blake Wheeler,Jets/Jets,Base
+2019-20 Tim Horton’s,D-5,Thomas Chabot/Brady Tkachuk,Senators/Senators,Base
+2019-20 Tim Horton’s,D-6,Johnny Gaudreau/Sean Monahan,Flames/Flames,Base
+2019-20 Tim Horton’s,D-7,Connor McDavid/Leon Draisaitl,Oilers/Oilers,Base
+2019-20 Tim Horton’s,D-8,Patrick Kane/Jonathan Toews,Blackhawks/Blackhawks,Base
+2019-20 Tim Horton’s,D-9,Steven Stamkos/Nikita Kucherov,Lightning/Lightning,Base
+2019-20 Tim Horton’s,D-10,Nathan MacKinnon/Mikko Rantanen,Avalanche/Avalanche,Base
+2019-20 Tim Horton’s,D-11,Marc-Andre Fleury/Mark Stone,Golden Knights/Golden Knights,Base
+2019-20 Tim Horton’s,D-12,Erik Karlsson/Brent Burns,Sharks/Sharks,Base
+2019-20 Tim Horton’s,D-13,P.K. Subban/Pekka Rinne,Predators/Predators,Base
+2019-20 Tim Horton’s,D-14,Alexander Ovechkin/Nicklas Backstrom,Capitals/Capitals,Base
+2019-20 Tim Horton’s,D-15,Brad Marchand/David Pastrnak,Bruins/Bruins,Base
+2019-20 Tim Horton’s,D-16,Jack Eichel/Rasmus Dahlin,Sabres/Sabres,Base
+2019-20 Tim Horton’s,D-17,Claude Giroux/Carter Hart,Flyers/Flyers,Base
+2019-20 Tim Horton’s,D-18,Sidney Crosby/Evgeni Malkin,Penguins/Penguins,Base
+2019-20 Tim Horton’s,GE-1,Connor McDavid,Oilers,Base
+2019-20 Tim Horton’s,GE-2,Nathan MacKinnon,Avalanche,Base
+2019-20 Tim Horton’s,GE-3,Carey Price,Canadiens,Base
+2019-20 Tim Horton’s,GE-4,Patrick Kane,Blackhawks,Base
+2019-20 Tim Horton’s,GE-5,Johnny Gaudreau,Flames,Base
+2019-20 Tim Horton’s,GE-6,Elias Pettersson,Canucks,Base
+2019-20 Tim Horton’s,GE-7,Patrik Laine,Jets,Base
+2019-20 Tim Horton’s,GE-8,Alexander Ovechkin,Capitals,Base
+2019-20 Tim Horton’s,GE-9,Steven Stamkos,Lightning,Base
+2019-20 Tim Horton’s,GE-10,Sidney Crosby,Penguins,Base
+2019-20 Tim Horton’s,HD-1,Sidney Crosby,Penguins,Base
+2019-20 Tim Horton’s,HD-2,Patrick Kane,Blackhawks,Base
+2019-20 Tim Horton’s,HD-3,Carey Price,Canadiens,Base
+2019-20 Tim Horton’s,HD-4,Anze Kopitar,Kings,Base
+2019-20 Tim Horton’s,HD-5,Duncan Keith,Blackhawks,Base
+2019-20 Tim Horton’s,HD-6,Drew Doughty,Kings,Base
+2019-20 Tim Horton’s,HD-7,Jonathan Toews,Blackhawks,Base
+2019-20 Tim Horton’s,HD-8,Alexander Ovechkin,Capitals,Base
+2019-20 Tim Horton’s,HD-9,Jonathan Quick,Kings,Base
+2019-20 Tim Horton’s,HD-10,Zdeno Chara,Bruins,Base
+2019-20 Tim Horton’s,HD-11,Evgeni Malkin,Penguins,Base
+2019-20 Tim Horton’s,HD-12,Joe Thornton,Sharks,Base
+2019-20 Tim Horton’s,HD-13,Steven Stamkos,Lightning,Base
+2019-20 Tim Horton’s,HD-14,Braden Holtby,Capitals,Base
+2019-20 Tim Horton’s,HD-15,Connor McDavid,Oilers,Base
+2019-20 Tim Horton’s,HGD-1,Connor McDavid,Oilers,Base
+2019-20 Tim Horton’s,HGD-2,Carey Price,Canadiens,Base
+2019-20 Tim Horton’s,HGD-3,Brock Boeser,Canucks,Base
+2019-20 Tim Horton’s,HGD-4,Mark Scheifele,Jets,Base
+2019-20 Tim Horton’s,HGD-5,Thomas Chabot,Senators,Base
+2019-20 Tim Horton’s,HGD-6,Johnny Gaudreau,Flames,Base
+2019-20 Tim Horton’s,HGD-7,John Tavares,Maple Leafs,Base
+2019-20 Tim Horton’s,HGD-8,Jonathan Toews,Blackhawks,Base
+2019-20 Tim Horton’s,HGD-9,Elias Pettersson,Canucks,Base
+2019-20 Tim Horton’s,HGD-10,Auston Matthews,Maple Leafs,Base
+2019-20 Tim Horton’s,HGD-11,Patrik Laine,Jets,Base
+2019-20 Tim Horton’s,HGD-12,Alexander Ovechkin,Capitals,Base
+2019-20 Tim Horton’s,HGD-13,Steven Stamkos,Lightning,Base
+2019-20 Tim Horton’s,HGD-14,Nathan MacKinnon,Avalanche,Base
+2019-20 Tim Horton’s,HGD-15,Sidney Crosby,Penguins,Base
+2019-20 Tim Horton’s,SE-1,Jake DeBrusk,Bruins,Base
+2019-20 Tim Horton’s,SE-2,Tuukka Rask,Bruins,Base
+2019-20 Tim Horton’s,SE-3,Nico Hischier,Devils,Base
+2019-20 Tim Horton’s,SE-4,Patrik Laine,Jets,Base
+2019-20 Tim Horton’s,SE-5,Patrice Bergeron,Bruins,Base
+2019-20 Tim Horton’s,SE-6,Sidney Crosby,Penguins,Base
+2019-20 Tim Horton’s,SE-7,Claude Giroux,Flyers,Base
+2019-20 Tim Horton’s,J-AM,Auston Matthews,Maple Leafs,Base
+2019-20 Tim Horton’s,J-BB,Brent Burns,Sharks,Base
+2019-20 Tim Horton’s,J-BO,Brock Boeser,Canucks,Base
+2019-20 Tim Horton’s,J-CM,Connor McDavid,Oilers,Base
+2019-20 Tim Horton’s,J-CP,Carey Price,Canadiens,Base
+2019-20 Tim Horton’s,J-DL,Dylan Larkin,Red Wings,Base
+2019-20 Tim Horton’s,J-EP,Elias Pettersson,Canucks,Base
+2019-20 Tim Horton’s,J-JG,Johnny Gaudreau,Flames,Base
+2019-20 Tim Horton’s,J-JT,Jonathan Toews,Blackhawks,Base
+2019-20 Tim Horton’s,J-MD,Max Domi,Canadiens,Base
+2019-20 Tim Horton’s,J-MF,Marc-Andre Fleury,Golden Knights,Base
+2019-20 Tim Horton’s,J-PB,Patrice Bergeron,Bruins,Base
+2019-20 Tim Horton’s,J-PL,Patrik Laine,Jets,Base
+2019-20 Tim Horton’s,J-PS,P.K. Subban,Predators,Base
+2019-20 Tim Horton’s,J-SC,Sidney Crosby,Penguins,Base
+2019-20 Tim Horton’s,J-SS,Steven Stamkos,Lightning,Base
+2019-20 Tim Horton’s,J-TA,John Tavares,Maple Leafs,Base
+2019-20 Tim Horton’s,J-TC,Thomas Chabot,Senators,Base
+2019-20 Tim Horton’s,SJ-DN,Darnell Nurse,Oilers,Base
+2019-20 Tim Horton’s,SJ-EP,Elias Pettersson,Canucks,Base
+2019-20 Tim Horton’s,SJ-MD,Max Domi,Canadiens,Base
+2019-20 Tim Horton’s,SJ-MM,Mitch Marner,Maple Leafs,Base
+2019-20 Tim Horton’s,SJ-MS,Mark Scheifele,Jets,Base
+2019-20 Tim Horton’s,SJ-MT,Matthew Tkachuk,Flames,Base
+2019-20 Tim Horton’s,S-BT,Brady Tkachuk,Senators,Base
+2019-20 Tim Horton’s,S-CA,Cam Atkinson,Blue Jackets,Base
+2019-20 Tim Horton’s,S-CB,Connor Brown,Maple Leafs,Base
+2019-20 Tim Horton’s,S-DD,Devan Dubnyk,Wild,Base
+2019-20 Tim Horton’s,S-EK,Evander Kane,Sharks,Base
+2019-20 Tim Horton’s,S-JD,Jonathan Drouin,Canadiens,Base
+2019-20 Tim Horton’s,S-JK,Jesperi Kotkaniemi,Canadiens,Base
+2019-20 Tim Horton’s,S-MF,Marc-Andre Fleury,Golden Knights,Base
+2019-20 Tim Horton’s,S-MM,Matt Murray,Penguins,Base
+2019-20 Tim Horton’s,S-NG,Nikolay Goldobin,Canucks,Base
+2019-20 Tim Horton’s,S-NH,Noah Hanifin,Flames,Base
+2019-20 Tim Horton’s,S-OK,Oscar Klefbom,Oilers,Base
+2019-20 Tim Horton’s,S-SM,Sean Monahan,Flames,Base
+2019-20 Tim Horton’s,S-TM,Timo Meier,Sharks,Base
+2019-20 Tim Horton’s,S-ZH,Zach Hyman,Maple Leafs,Base
+2019-20 Tim Horton’s,R7,Sidney Crosby,Penguins,Base
+2019-20 Tim Horton’s,R8,Nathan MacKinnon,Avalanche,Base
+2019-20 Tim Horton’s,R6,Brendan Gallagher,Canadiens,Base

@@ -1,0 +1,12 @@
+[
+  { "year": "1990-91", "set_name": "1990-91_UD", "base_count": 550, "insert_count": 0, "checklist_status": "verified", "image_ratio": "0/550", "ocr_anchors": "Green banner; White border; Hologram logo (back)", "rarity_tags": ["BASE"] },
+  { "year": "1990-91", "set_name": "1990-91_OPC", "base_count": 528, "insert_count": 22, "checklist_status": "verified", "image_ratio": "0/528", "ocr_anchors": "Rough-cut edge; Team color bottom bar; Grey stock", "rarity_tags": ["BASE"] },
+  { "year": "1990-91", "set_name": "1990-91_ProSet", "base_count": 705, "insert_count": 1, "checklist_status": "verified", "image_ratio": "0/705", "ocr_anchors": "Red/Blue top header; Serif font player name", "rarity_tags": ["BASE", "HOLO"] },
+  { "year": "1991-92", "set_name": "1991-92_UD_Series1", "base_count": 400, "insert_count": 12, "checklist_status": "verified", "image_ratio": "0/400", "ocr_anchors": "Team logo top left; Star Rookie logo", "rarity_tags": ["BASE"] },
+  { "year": "1991-92", "set_name": "1991-92_UD_Series2", "base_count": 300, "insert_count": 10, "checklist_status": "verified", "image_ratio": "0/300", "ocr_anchors": "Numbering starts at 401; Hologram back", "rarity_tags": ["BASE"] },
+  { "year": "1991-92", "set_name": "1991-92_ProSet_Series1", "base_count": 345, "insert_count": 5, "checklist_status": "verified", "image_ratio": "0/345", "ocr_anchors": "Red top bar; 'Pro Set' logo center top", "rarity_tags": ["BASE"] },
+  { "year": "1991-92", "set_name": "1991-92_ProSet_Series2", "base_count": 270, "insert_count": 3, "checklist_status": "verified", "image_ratio": "0/270", "ocr_anchors": "Blue top bar; Continuation of numbering", "rarity_tags": ["BASE"] },
+  { "year": "1992-93", "set_name": "1992-93_UD_Series1", "base_count": 420, "insert_count": 10, "checklist_status": "verified", "image_ratio": "0/420", "ocr_anchors": "Gold foil logo; Silver border accents", "rarity_tags": ["BASE"] },
+  { "year": "1992-93", "set_name": "1992-93_Parkhurst", "base_count": 480, "insert_count": 5, "checklist_status": "verified", "image_ratio": "0/480", "ocr_anchors": "Emerald Ice parallels; Green header", "rarity_tags": ["BASE"] },
+  { "year": "1993-94", "set_name": "1993-94_Leaf_Series1", "base_count": 220, "insert_count": 8, "checklist_status": "verified", "image_ratio": "0/220", "ocr_anchors": "White marble border; High-gloss finish", "rarity_tags": ["BASE"] }
+]

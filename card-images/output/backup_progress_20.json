@@ -1,0 +1,2914 @@
+[
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "Rookie",
+    "player": "Cards",
+    "team": "N/A",
+    "variations": "Base"
+  },
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "Fan",
+    "player": "Shop",
+    "team": "N/A",
+    "variations": "Base"
+  },
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "More",
+    "player": "Info",
+    "team": "N/A",
+    "variations": "Base"
+  },
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "Shop",
+    "player": "for Wayne Gretzky Figures and Bobbleheads",
+    "team": "N/A",
+    "variations": "Bobbleheads and Figures"
+  },
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "Shop",
+    "player": "for Wayne Gretzky Photographs and Posters",
+    "team": "N/A",
+    "variations": "Photographs, Posters and Prints"
+  },
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "How",
+    "player": "to Spot a Fake Wayne Gretzky Rookie Card",
+    "team": "N/A",
+    "variations": "More Info"
+  },
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "Top",
+    "player": "10 Wayne Gretzky Cards",
+    "team": "N/A",
+    "variations": "More Info"
+  },
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "Wayne",
+    "player": "Gretzky Fathead Wall Decals Released",
+    "team": "N/A",
+    "variations": "More Info"
+  },
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "Official",
+    "player": "Website",
+    "team": "N/A",
+    "variations": "More Info"
+  },
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "NHL",
+    "player": "Player Profile",
+    "team": "N/A",
+    "variations": "More Info"
+  },
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "Wikipedia",
+    "player": "Entry",
+    "team": "N/A",
+    "variations": "More Info"
+  },
+  {
+    "master_set": "Wayne Gretzky Cards",
+    "card_num": "Hockey",
+    "player": "Reference",
+    "team": "N/A",
+    "variations": "More Info"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Standard Base",
+    "player": "#1-70 (or #1-72 in some checklists)",
+    "team": "70-72",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Red Foil",
+    "player": "1:1 packs",
+    "team": "N/A",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Rose Gold Foil",
+    "player": "N/A",
+    "team": "1:2 packs",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Deluxe",
+    "player": "/250",
+    "team": "N/A",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Exclusives",
+    "player": "/100",
+    "team": "N/A",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Outburst Red",
+    "player": "/25",
+    "team": "N/A",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "High Gloss",
+    "player": "/10",
+    "team": "N/A",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Outburst Gold",
+    "player": "1/1",
+    "team": "N/A",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Black",
+    "player": "1/1",
+    "team": "One-of-one black variant.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Jersey (Relic)",
+    "player": "Standard Base (#1-70)",
+    "team": "1:6 packs",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Jersey (Relic)",
+    "player": "Pride of the Program (#71-100)",
+    "team": "1:60 packs",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Auto Patch",
+    "player": "Standard Base",
+    "team": "/99 or /150",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Upper Deck Team Canada Juniors  Set Review and",
+    "card_num": "Auto Patch",
+    "player": "Pride of the Program",
+    "team": "/25",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024 Wild Card Splat Baseball Set Review and",
+    "card_num": "USA",
+    "player": "Balloon, Classic, Vintage",
+    "team": "Yes",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024 Wild Card Splat Baseball Set Review and",
+    "card_num": "SPLATMO",
+    "player": "Standard splat (possibly \"Splat Motion\")",
+    "team": "Yes",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024 Wild Card Splat Baseball Set Review and",
+    "card_num": "PAINT THE TOWN",
+    "player": "Color-match editions",
+    "team": "Yes",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024 Wild Card Splat Baseball Set Review and",
+    "card_num": "DOUBLE SPLAT",
+    "player": "Dual-player cards",
+    "team": "Yes (Dual)",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Cosmic Chrome Baseball Set Review and",
+    "card_num": "Superfractor",
+    "player": "1/1",
+    "team": "Ultimate one-of-one; odds not disclosed. Appears in base, inserts, and autographs.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Mosaic No Huddle Football Set Review and",
+    "card_num": "Hall of Fame",
+    "player": "291–300",
+    "team": "10",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Mosaic No Huddle Football Set Review and",
+    "card_num": "Rookies",
+    "player": "301–400",
+    "team": "100",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Mosaic No Huddle Football Set Review and",
+    "card_num": "Mosaic Orange",
+    "player": "/199",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Mosaic No Huddle Football Set Review and",
+    "card_num": "Silver Knight",
+    "player": "/149",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Mosaic No Huddle Football Set Review and",
+    "card_num": "Mosaic Blue",
+    "player": "/99",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Mosaic No Huddle Football Set Review and",
+    "card_num": "Blue Sparkle",
+    "player": "/96",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Mosaic No Huddle Football Set Review and",
+    "card_num": "Mosaic Purple",
+    "player": "/49",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Mosaic No Huddle Football Set Review and",
+    "card_num": "Mosaic White",
+    "player": "/25",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Mosaic No Huddle Football Set Review and",
+    "card_num": "Gold Sparkle",
+    "player": "/24",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Mosaic No Huddle Football Set Review and",
+    "card_num": "Mosaic Gold",
+    "player": "/10",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "1",
+    "player": "Jeremy Swayman",
+    "team": "Boston Bruins",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "2",
+    "player": "Kirill Marchenko",
+    "team": "Columbus Blue Jackets",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "3",
+    "player": "Clayton Keller",
+    "team": "Utah Hockey Club",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "4",
+    "player": "Bobby Orr",
+    "team": "Boston Bruins",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "5",
+    "player": "Thatcher Demko",
+    "team": "Vancouver Canucks",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "...",
+    "player": "...",
+    "team": "...",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "95",
+    "player": "Evgeni Malkin",
+    "team": "Pittsburgh Penguins",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Lavish",
+    "player": "TBD (B&W photography)",
+    "team": "/50 (base); Auto /25",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Patron Patches",
+    "player": "TBD",
+    "team": "Varied # (e.g., /15–/50); Auto versions",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Color Coded",
+    "player": "TBD",
+    "team": "/35",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Cup Trios",
+    "player": "TBD",
+    "team": "Jersey /49; Patch /10; Tag /2; Button 1/1",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Cup Quads",
+    "player": "TBD",
+    "team": "Jersey /25; Patch /5; Tag /2; Button 1/1",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Cup Sixes",
+    "player": "TBD",
+    "team": "Jersey /15; Patch /3; Tag /2; Button 1/1",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Enshrinements",
+    "player": "TBD",
+    "team": "Varied # (e.g., /99 or less); Duos varied",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Limited Logos",
+    "player": "TBD",
+    "team": "/50",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Logomarks",
+    "player": "TBD",
+    "team": "Jersey /99; Gold Auto Patch /10; 1:10 packs",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Baroque",
+    "player": "TBD",
+    "team": "/99",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Top Tens",
+    "player": "TBD",
+    "team": "Varied # (e.g., /25); Black 1/1",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Triple Autos",
+    "player": "TBD",
+    "team": "/3",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Dual Autos",
+    "player": "TBD",
+    "team": "/10",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2024-25 Upper Deck The Cup  Set Review and",
+    "card_num": "Dual Shields",
+    "player": "TBD",
+    "team": "1/1",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Special Edition Minecraft Set Review and",
+    "card_num": "Gold",
+    "player": "Base, Inserts",
+    "team": "Common parallel (1:1 box average); likely /199 or lower",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Special Edition Minecraft Set Review and",
+    "card_num": "Diamond",
+    "player": "Base, Inserts",
+    "team": "Mid-tier chase; part of \"other cards\" pool",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Special Edition Minecraft Set Review and",
+    "card_num": "Netherite",
+    "player": "Base, Inserts",
+    "team": "Rarest parallel; low odds (case-level hit?)",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Special Edition Minecraft Set Review and",
+    "card_num": "Achievements",
+    "player": "TBD",
+    "team": "1:12+ (as base/parallel)",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Special Edition Minecraft Set Review and",
+    "card_num": "Guaranteed",
+    "player": "Base /325, Crafting Chronicles",
+    "team": "1:1",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Special Edition Minecraft Set Review and",
+    "card_num": "Mid-Chase",
+    "player": "Gold Parallel, Tour Insert",
+    "team": "1:1–1:12",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Special Edition Minecraft Set Review and",
+    "card_num": "Super Chase",
+    "player": "Netherite Parallel, Milestones",
+    "team": "1:96+ (case)",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Immaculate NFL Football Set Review and",
+    "card_num": "2023",
+    "player": "5 + 1 base",
+    "team": "Dual NFL Shields 1/1",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Immaculate NFL Football Set Review and",
+    "card_num": "2024",
+    "player": "5 + 1 base",
+    "team": "Rookie Logos, Premium Patches",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Immaculate NFL Football Set Review and",
+    "card_num": "2025 (exp.)",
+    "player": "5 + 1 base",
+    "team": "Returning Dual Shields, Rookie RPAs",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini National Treasures Baseball Set Review and",
+    "card_num": "Red",
+    "player": "/75",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini National Treasures Baseball Set Review and",
+    "card_num": "Holo Silver",
+    "player": "/49",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini National Treasures Baseball Set Review and",
+    "card_num": "Emerald",
+    "player": "/13",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini National Treasures Baseball Set Review and",
+    "card_num": "Holo Gold",
+    "player": "/10",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini National Treasures Baseball Set Review and",
+    "card_num": "Platinum",
+    "player": "1/1",
+    "team": "",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini National Treasures Baseball Set Review and",
+    "card_num": "Cut Signatures",
+    "player": "Encased cut autos from deceased legends",
+    "team": "1/1 only",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Flawless Baseball Set Review and",
+    "card_num": "Future Ink",
+    "player": "38 cards",
+    "team": "/25",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Flawless Baseball Set Review and",
+    "card_num": "Iconic Ink",
+    "player": "23 cards",
+    "team": "/25 or less",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Flawless Baseball Set Review and",
+    "card_num": "Bat Knobs",
+    "player": "10 cards",
+    "team": "1/1",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Flawless Baseball Set Review and",
+    "card_num": "Bat Nameplates",
+    "player": "10 cards",
+    "team": "1/1",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Panini Flawless Baseball Set Review and",
+    "card_num": "Dual Patches",
+    "player": "35 cards",
+    "team": "/25 or less",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "Rookies (RC)",
+    "player": "100",
+    "team": "#56 Luisangel Acuña (NYM), #96 Jacob Wilson (OAK), #217 Roki Sasaki (LAD)",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "Veterans/Stars",
+    "player": "200",
+    "team": "#12 José Ramírez (CLE), #150 Bryce Harper (PHI), #261 Julio Rodríguez (SEA)",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "1",
+    "player": "Shohei Ohtani",
+    "team": "LAD",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "99",
+    "player": "Aaron Judge",
+    "team": "NYY",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "96",
+    "player": "Jacob Wilson RC",
+    "team": "OAK",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "182",
+    "player": "Chris Sale",
+    "team": "ATL",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "300",
+    "player": "Paul Skenes RC",
+    "team": "PIT",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "257",
+    "player": "Ronald Acuña Jr.",
+    "team": "ATL",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "Refractor",
+    "player": "1:3 packs (1 per Jumbo pack)",
+    "team": "All formats",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "Teal Refractor",
+    "player": "/299; 1:108 packs",
+    "team": "All",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "Aqua Refractor",
+    "player": "/199; 1:149 packs",
+    "team": "All",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "Blue Refractor",
+    "player": "/150; 1:197 packs",
+    "team": "All",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "Gold Refractor",
+    "player": "/50; 1:595 packs",
+    "team": "All",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "Red Refractor",
+    "player": "/5; 1:6,299 packs",
+    "team": "All",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "FrozenFractor",
+    "player": "/5; 1:9,449 packs",
+    "team": "Hobby only",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "SuperFractor",
+    "player": "1/1; Varies (~1:100,000+ packs)",
+    "team": "All",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "X-Fractor",
+    "player": "10 per Mega box",
+    "team": "Mega exclusive",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Chrome® Baseball Set Review and",
+    "card_num": "SSP Variations",
+    "player": "~0.009 (1:8,451 packs)",
+    "team": "Rare",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Allen & Ginter Baseball Set Review and",
+    "card_num": "Foil Filigree",
+    "player": "Unlimited",
+    "team": "All formats",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Allen & Ginter Baseball Set Review and",
+    "card_num": "Glossy",
+    "player": "1/1",
+    "team": "Hobby",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Allen & Ginter Baseball Set Review and",
+    "card_num": "Allen & Ginter",
+    "player": "Unlimited",
+    "team": "All formats",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Allen & Ginter Baseball Set Review and",
+    "card_num": "Black Bordered",
+    "player": "Unlimited",
+    "team": "All formats",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Allen & Ginter Baseball Set Review and",
+    "card_num": "No Number",
+    "player": "50 copies",
+    "team": "All formats",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Allen & Ginter Baseball Set Review and",
+    "card_num": "Brooklyn Back",
+    "player": "/25",
+    "team": "All formats",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Allen & Ginter Baseball Set Review and",
+    "card_num": "Wood",
+    "player": "1/1",
+    "team": "Hobby only",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Allen & Ginter Baseball Set Review and",
+    "card_num": "Hits (Total)",
+    "player": "2 per box",
+    "team": "Mix of autos/relics; no per-pack breakdown.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Allen & Ginter Baseball Set Review and",
+    "card_num": "Short Prints",
+    "player": "1:7 packs (est.)",
+    "team": "Based on 50/350 base cards.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Allen & Ginter Baseball Set Review and",
+    "card_num": "Autographs",
+    "player": "1:12 packs (est.)",
+    "team": "Framed minis dominant.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Topps Allen & Ginter Baseball Set Review and",
+    "card_num": "Relics",
+    "player": "1:24 packs (est.)",
+    "team": "Includes DNA and lineup cards.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025-26 Topps Basketball Set Review and",
+    "card_num": "Gold",
+    "player": "/2025",
+    "team": "1:87",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025-26 Topps Basketball Set Review and",
+    "card_num": "Black",
+    "player": "/68",
+    "team": "1:251",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025-26 Topps Basketball Set Review and",
+    "card_num": "Wood",
+    "player": "/25",
+    "team": "1:2,387",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025-26 Topps Basketball Set Review and",
+    "card_num": "FoilFractor",
+    "player": "1/1",
+    "team": "1:17,098",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "ePack",
+    "player": "Varies",
+    "team": "Digital",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Aqua FX",
+    "player": "1:2 packs",
+    "team": "Blaster",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Purple FX",
+    "player": "1:8 packs",
+    "team": "All",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Retribution",
+    "player": "1:9 packs",
+    "team": "All",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Nemesis",
+    "player": "1:18 packs",
+    "team": "All",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Lime Green FX",
+    "player": "/175",
+    "team": "Hobby/ePack",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Orange FX",
+    "player": "/25",
+    "team": "Hobby/ePack",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Red PMG",
+    "player": "/100",
+    "team": "Hobby/ePack",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Blue PMG",
+    "player": "/50",
+    "team": "Hobby/ePack",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Green PMG",
+    "player": "/10",
+    "team": "Hobby/ePack",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Gold PMG",
+    "player": "1/1",
+    "team": "Hobby/ePack",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Base Set",
+    "player": "100",
+    "team": "Bluebird",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-1",
+    "team": "The Riddler",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-2",
+    "team": "Poison Ivy",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-3",
+    "team": "Man-Bat",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-4",
+    "team": "Cluemaster",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-5",
+    "team": "Maxie Zeus",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-6",
+    "team": "Clayface (Basil Karlo)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-7",
+    "team": "Harley Quinn",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-8",
+    "team": "Two-Face",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-9",
+    "team": "Calendar Man",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-10",
+    "team": "Mister Freeze",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-11",
+    "team": "The Joker",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-12",
+    "team": "Killer Croc",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-13",
+    "team": "Amygdala",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-14",
+    "team": "Crazy Quilt",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-15",
+    "team": "Victor Zsasz",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-16",
+    "team": "Lock-Up",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-17",
+    "team": "The Answer",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-18",
+    "team": "Great White Shark",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-19",
+    "team": "Jervis Tetch",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-20",
+    "team": "Scarecrow",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-21",
+    "team": "Professor Pyg",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-22",
+    "team": "Black Mask",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-23",
+    "team": "Floronic Man",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-24",
+    "team": "Doctor Destiny",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-25",
+    "team": "Charaxes",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-26",
+    "team": "Magpie",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-27",
+    "team": "Signalman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-28",
+    "team": "Anarky",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-29",
+    "team": "Catwoman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-30",
+    "team": "Hugo Strange",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-31",
+    "team": "Ventriloquist & Ferdie",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-32",
+    "team": "Tally Man",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-33",
+    "team": "King Tut",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-34",
+    "team": "The Eraser",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-35",
+    "team": "Doctor Phosphorous",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-36",
+    "team": "Lady Clay",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-37",
+    "team": "Humpty Dumpty",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-38",
+    "team": "Clock King",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-39",
+    "team": "Spellbinder",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-40",
+    "team": "Flamingo",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-41",
+    "team": "Abattoir",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-42",
+    "team": "Copperhead",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-43",
+    "team": "Psycho-Pirate",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-44",
+    "team": "Ventriloquist & Scarface",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-45",
+    "team": "Duela Dent",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-46",
+    "team": "Ratcatcher",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-47",
+    "team": "Ragdoll",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-48",
+    "team": "Black Spider",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-49",
+    "team": "Clayface (Preston Payne)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Arkham Asylum",
+    "player": "AA-50",
+    "team": "Bane",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-1",
+    "team": "Batman (1940) #200 - Origin of Batman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-2",
+    "team": "Batman (1940) #245 - Neal Adams Art",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-3",
+    "team": "Batman (1940) #251 - Joker's Five-Way Revenge, Neal Adams Art",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-4",
+    "team": "Batman (1940) #366 - First New Robin in Costume",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-5",
+    "team": "Batman (1940) #400 - Dark Knight Special",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-6",
+    "team": "Batman (1940) #404 - Batman Year One by Miller & Mazzuchelli",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-7",
+    "team": "Batman (1940) #405 - Batman Year One by Miller & Mazzuchelli",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-8",
+    "team": "Batman (1940) #406 - Batman Year One by Miller & Mazzuchelli",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-9",
+    "team": "Batman (1940) #407 - Batman Year One by Miller & Mazzuchelli",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-10",
+    "team": "Batman (1940) #408 - Jason Todd New Origin",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-11",
+    "team": "Batman (1940) #417 - Ten Nights of the Beast",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-12",
+    "team": "Batman (1940) #418 - Ten Nights of the Beast",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-13",
+    "team": "Batman (1940) #419 - Ten Nights of the Beast",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-14",
+    "team": "Batman (1940) #420 - Ten Nights of the Beast",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-15",
+    "team": "Batman (1940) #423",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-16",
+    "team": "Batman (1940) #428 - Death of Robin (Jason Todd)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-17",
+    "team": "Batman (1940) #429 - A Death in the Family, Joker Appearance",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-18",
+    "team": "Batman (1940) #436 - Batman Year Three, First Appearance of Timothy Drake",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-19",
+    "team": "Batman (1940) #437 - Batman Year Three",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-20",
+    "team": "Batman (1940) #438- Batman Year Three",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-21",
+    "team": "Batman (1940) #439 - Batman Year Three",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-22",
+    "team": "Batman (1940) #442 - First Appearance of Timothy Drake in Robin Costume",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-23",
+    "team": "Batman (1940) #457 - Timothy Drake Becomes Robin",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-24",
+    "team": "Batman (1940) #465 - Robin Returns",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-25",
+    "team": "Batman (1940) #497 - Knightfall Part 11, Bane Breaks Batman's Back",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-26",
+    "team": "Batman and The Outsiders (1983) #1",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-27",
+    "team": "Batman: Gotham Knights (2000) #43",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-28",
+    "team": "Batman: The Dark Knight Returns (1986) #3",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-29",
+    "team": "Batman: Legends of the Dark Knight (1989) #149 - Grimm Part One",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-30",
+    "team": "Batman: Legends of the Dark Knight (1989) #28 - Faces by Matt Wagner",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-31",
+    "team": "Batman: Legends of the Dark Knight (1989) #29 - Faces by Matt Wagner",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-32",
+    "team": "Batman: Legends of the Dark Knight (1989) #30 - Faces by Matt Wagner",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-33",
+    "team": "Batman: The Dark Knight Returns (1986) #4, Frank Miller Art",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-34",
+    "team": "Batman: The Dark Knight Returns (1986) #1, Frank Miller Art",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-35",
+    "team": "Batman: The Dark Knight Returns (1986) #2, Frank Miller Art",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-36",
+    "team": "Batman: The Killing Joke (1988) by Moore & Bolland",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-37",
+    "team": "Detective Comics (1937) #332 - Joker's Last Laugh",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-38",
+    "team": "Detective Comics (1937) #341 - Joker's Comedy Capers",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-39",
+    "team": "Detective Comics (1937) #408 - Neal Adams Art",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-40",
+    "team": "Detective Comics (1937) #409",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-41",
+    "team": "Detective Comics (1937) #431",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-42",
+    "team": "Detective Comics (1937) #451",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-43",
+    "team": "Detective Comics (1937) #472 - Hugo Strange Becomes Batman by Englehart & Rogers",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-44",
+    "team": "Detective Comics (1937) #567 - by Harlan Ellison & Gene Colan",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-45",
+    "team": "Detective Comics (1937) #575 Batman Year Two, First Appearance of The Reaper",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-46",
+    "team": "Detective Comics (1937) #576 - Batman Year Two, Todd MacFarlane Art",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-47",
+    "team": "Detective Comics (1937) #577 - Batman Year Two, Todd MacFarlane Art",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-48",
+    "team": "Detective Comics (1937) #578 - Batman Year Two, Todd MacFarlane Art",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-49",
+    "team": "Detective Comics (1937) #608 - First Appearance of Anarky",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Comic Cuts",
+    "player": "CC-50",
+    "team": "Tales of The Teen Titans (1984) #44 - First Appearance of Nightwing, George Perez Art",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-1",
+    "team": "Killer Moth",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-2",
+    "team": "The Creeper",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-3",
+    "team": "Calendar Man",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-4",
+    "team": "Batgirl (Stephanie Brown)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-5",
+    "team": "Kite-Man",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-6",
+    "team": "Clock King",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-7",
+    "team": "Psycho-Pirate",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-8",
+    "team": "Ventriloquist & Scarface",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-9",
+    "team": "Etrigan the Demon",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-10",
+    "team": "Punchline",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-11",
+    "team": "KGBeast",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-12",
+    "team": "Black Mask",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-13",
+    "team": "The Signal",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-14",
+    "team": "Court of Owls",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-15",
+    "team": "Victor Zsasz",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-16",
+    "team": "Firefly",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-17",
+    "team": "Professor Pyg",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-18",
+    "team": "The Huntress",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-19",
+    "team": "King Snake",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-20",
+    "team": "Deadshot",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-21",
+    "team": "Scarecrow",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-22",
+    "team": "Robin (Damian Wayne)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-23",
+    "team": "The Penguin",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-24",
+    "team": "Jervis Tetch",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-25",
+    "team": "Batgirl (Cassandra Cain)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-26",
+    "team": "Bane",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-27",
+    "team": "Killer Croc",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-28",
+    "team": "Hush",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-29",
+    "team": "Red Hood",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-30",
+    "team": "Clayface (Basil Karlo)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-31",
+    "team": "Man-Bat",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-32",
+    "team": "The Riddler",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-33",
+    "team": "Deathstroke",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-34",
+    "team": "Batwoman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-35",
+    "team": "Mister Freeze",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-36",
+    "team": "Catwoman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-37",
+    "team": "Ra's al Ghul",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-38",
+    "team": "Batgirl (Barbara Gordon)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-39",
+    "team": "Nightwing",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-40",
+    "team": "Harley Quinn",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-41",
+    "team": "Two-Face",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-42",
+    "team": "Poison Ivy",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-43",
+    "team": "Robin (Tim Drake)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-44",
+    "team": "The Joker",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Dark Matter",
+    "player": "DM-45",
+    "team": "Batman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-1",
+    "team": "The Riddler - Detective Comics: Futures End (2014) #1",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-2",
+    "team": "The Riddler - Batman (1940) #179",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-3",
+    "team": "The Riddler - Batman (2020) #90",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-4",
+    "team": "The Riddler - Detective Comics (1937) #142",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-5",
+    "team": "The Riddler - Green Arrow (2004) #35",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-6",
+    "team": "The Riddler - Harley Quinn (2000) #6",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-7",
+    "team": "The Riddler - Batman (1940) #490",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-8",
+    "team": "The Riddler - Batman (1940) #362",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-9",
+    "team": "The Riddler - Batman (2014) #32",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-10",
+    "team": "The Riddler - Batman: Killing Time (2022) #2",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-11",
+    "team": "The Riddler - Detective Comics (1937) #140",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-12",
+    "team": "The Riddler - The Riddle Factory (1995)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-13",
+    "team": "The Riddler - Batman (1940) #317",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-14",
+    "team": "The Riddler - Batman (1940) #292",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-15",
+    "team": "The Riddler - Detective Comics (1937) #705",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-16",
+    "team": "The Riddler - Batman (1940) #171",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-17",
+    "team": "",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-18",
+    "team": "The Riddler - Gotham City Sirens (2010) #9",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-19",
+    "team": "The Riddler - Batman (1940) #619",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Enigmas",
+    "player": "E-20",
+    "team": "The Riddler - Batman (1940) #454",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-1",
+    "team": "Nightwing",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-2",
+    "team": "The Riddler",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-3",
+    "team": "Man-Bat",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-4",
+    "team": "Clayface",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-5",
+    "team": "Batman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-6",
+    "team": "Oracle",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-7",
+    "team": "Two-Face",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-8",
+    "team": "Calendar Man",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-9",
+    "team": "Mister Freeze",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-10",
+    "team": "Robin",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-11",
+    "team": "Black Mask",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-12",
+    "team": "Harley Quinn",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-13",
+    "team": "Batwing",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-14",
+    "team": "Alfred Pennyworth",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-15",
+    "team": "Ra's al Ghul",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-16",
+    "team": "Deadshot",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-17",
+    "team": "The Joker",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-18",
+    "team": "Poison Ivy",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-19",
+    "team": "Batwoman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-20",
+    "team": "Deathstroke",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-21",
+    "team": "Killer Croc",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-22",
+    "team": "The Penguin",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-23",
+    "team": "Talia al Ghul",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-24",
+    "team": "Batgirl (Cassandra Cain)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-25",
+    "team": "Batgirl",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-26",
+    "team": "Firefly",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-27",
+    "team": "Catwoman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-28",
+    "team": "Robin",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-29",
+    "team": "Scarecrow",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-30",
+    "team": "Blockbuster",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-31",
+    "team": "The Signal",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-32",
+    "team": "Killer Moth",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-33",
+    "team": "Catman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-34",
+    "team": "Hush",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-35",
+    "team": "Doctor Phosphorous",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-36",
+    "team": "The Calculator",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-37",
+    "team": "Court of Owls",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-38",
+    "team": "Punchline",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-39",
+    "team": "Batgirl",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-40",
+    "team": "Professor Pyg",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-41",
+    "team": "Hugo Strange",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-42",
+    "team": "Azrael",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-43",
+    "team": "Jervis Tetch",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-44",
+    "team": "The Batman Who Laughs",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-45",
+    "team": "Failsafe",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-46",
+    "team": "Robin",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-47",
+    "team": "Zur En Arrh Batman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-48",
+    "team": "Batzarro",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-49",
+    "team": "Talon",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Skybox Premium",
+    "player": "S-50",
+    "team": "Bane",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-1",
+    "team": "Ventriloquist & Scarface",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-2",
+    "team": "Professor Pyg",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-3",
+    "team": "Oracle",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-4",
+    "team": "The Signal",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-5",
+    "team": "Bane",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-6",
+    "team": "Blockbuster",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-7",
+    "team": "Robin (Damian Wayne)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-8",
+    "team": "Victor Zsasz",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-9",
+    "team": "Lady Shiva",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-10",
+    "team": "Black Mask",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-11",
+    "team": "Mister Freeze",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-12",
+    "team": "Azrael",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-13",
+    "team": "Talia al Ghul",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-14",
+    "team": "Red Hood",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-15",
+    "team": "The Huntress",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-16",
+    "team": "Punchline",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-17",
+    "team": "Killer Croc",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-18",
+    "team": "Jim Gordon",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-19",
+    "team": "Catwoman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-20",
+    "team": "Nightwing",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-21",
+    "team": "Deathstroke",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-22",
+    "team": "Jervis Tetch",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-23",
+    "team": "Cheer",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-24",
+    "team": "Batwing",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-25",
+    "team": "Killer Moth",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-26",
+    "team": "Clayface",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-27",
+    "team": "Robin (Tim Drake)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-28",
+    "team": "Poison Ivy",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-29",
+    "team": "Batgirl (Stephanie Brown)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-30",
+    "team": "The Riddler",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-31",
+    "team": "Scarecrow",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-32",
+    "team": "Two-Face",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-33",
+    "team": "Harley Quinn",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-34",
+    "team": "The Penguin",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-35",
+    "team": "Hush",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-36",
+    "team": "Tweedledee & Tweedledum",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-37",
+    "team": "Batgirl (Cassandra Cain)",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-38",
+    "team": "Solomon Grundy",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-39",
+    "team": "Roxy Rocket",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-40",
+    "team": "Deadshot",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-41",
+    "team": "Black Canary",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-42",
+    "team": "KGBeast",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-43",
+    "team": "Batwoman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-44",
+    "team": "Ra's al Ghul",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-45",
+    "team": "Alfred Pennyworth",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-46",
+    "team": "Catman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-47",
+    "team": "Vandal Savage",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-48",
+    "team": "Man-Bat",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-49",
+    "team": "The Joker",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Skybox Metal Universe Batman Set Review and",
+    "card_num": "Z-Force Rave",
+    "player": "Z-50",
+    "team": "Batman",
+    "variations": "Conclusion: A Bat-Signal for Premium Collecting"
+  },
+  {
+    "master_set": "2025 Bowman University Chrome® Football Review and",
+    "card_num": "Refractor",
+    "player": "1:5",
+    "team": "Classic rainbow shine; e.g., Mateer's pass in iridescent foil.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Bowman University Chrome® Football Review and",
+    "card_num": "X-Fractor",
+    "player": "1:10",
+    "team": "Bold, X-shaped pattern; e.g., explosive orange burst on Mateer's card.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Bowman University Chrome® Football Review and",
+    "card_num": "Aqua Refractor",
+    "player": "/325, 1:68",
+    "team": "Ocean blue-green; evokes coastal programs like Miami.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Bowman University Chrome® Football Review and",
+    "card_num": "Blue Refractor",
+    "player": "/150, 1:134",
+    "team": "Deep sapphire; e.g., Mateer in a midnight-blue glow.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Bowman University Chrome® Football Review and",
+    "card_num": "Gold Refractor",
+    "player": "/50, 1:402",
+    "team": "Metallic gold; chase-level bling.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Bowman University Chrome® Football Review and",
+    "card_num": "Red Refractor",
+    "player": "/5, 1:4,014",
+    "team": "Blood red; intense for rivalries.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Bowman University Chrome® Football Review and",
+    "card_num": "SuperFractor",
+    "player": "1/1, 1:20,067",
+    "team": "Ultimate rainbow; e.g., Mateer's 1/1 is a grail.",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Bowman University Chrome® Football Review and",
+    "card_num": "Lettered Up!",
+    "player": "25 cards; Varsity letterman jackets (new).",
+    "team": "1:9",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Bowman University Chrome® Football Review and",
+    "card_num": "Acropolis",
+    "player": "10 cards; Mythic hero poses (returning).",
+    "team": "1:22",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 Bowman University Chrome® Football Review and",
+    "card_num": "Path to Glory",
+    "player": "20 cards; Journey motifs (returning).",
+    "team": "1:11",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Red",
+    "player": "1:2 packs (base); 1:7 packs (rookies)",
+    "team": "Base & Rookies",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Gold",
+    "player": "/99",
+    "team": "Base & Rookies",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Rainbow",
+    "player": "/25 (final copy auto'd)",
+    "team": "Base & Rookies",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Magenta",
+    "player": "/10",
+    "team": "Base & Rookies",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Black",
+    "player": "1/1",
+    "team": "Base & Rookies",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Gold Auto",
+    "player": "1/1",
+    "team": "Base autos",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Auto Tag",
+    "player": "1/1",
+    "team": "Base autos",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "SIGnificance",
+    "player": "Unspecified",
+    "team": "1:9 packs",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Marquees",
+    "player": "Unspecified",
+    "team": "N/A (chase set)",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Strapped In",
+    "player": "Unspecified",
+    "team": "N/A (/10)",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Supreme Tables",
+    "player": "Unspecified",
+    "team": "N/A (/15)",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Ticket To…",
+    "player": "Unspecified",
+    "team": "N/A (/5)",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Base Auto",
+    "player": "Unspecified",
+    "team": "1:2 packs (base); 1:8 (rookies)",
+    "variations": "Base"
+  },
+  {
+    "master_set": "2025 SP Game Used AEW Marks Set Review and",
+    "card_num": "Autograph",
+    "player": "1:2 (base); 1:8 (rookies)",
+    "team": "1",
+    "variations": "Base"
+  }
+]

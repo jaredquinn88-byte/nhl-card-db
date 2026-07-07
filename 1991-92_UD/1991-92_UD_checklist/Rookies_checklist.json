@@ -1,0 +1,613 @@
+{
+    "year": "1991-92",
+    "set": "Rookies",
+    "total_cards": 101,
+    "cards": [
+        {
+            "num": "Baseball\n        Basketball\n        Boxing\n        Cricket\n        Football\n        Gaming\n        Golf\n        Hockey\n        Misc Sports\n        MMA\n        Multi-Sport\n        Non-Sport\n        Racing\n        Soccer\n        Tennis\n        Wrestling",
+            "player": "",
+            "team": "",
+            "note": ""
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "1",
+            "note": "Vladimir Malakhov SS, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "1",
+            "note": "Vladimir Malakhov SS, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "2",
+            "note": "Alexei Zhamnov SS, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "2",
+            "note": "Alexei Zhamnov SS, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "3",
+            "note": "Dmitri Filimonov SS, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "3",
+            "note": "Dmitri Filimonov SS, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "4",
+            "note": "Alexander Semak SS, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "4",
+            "note": "Alexander Semak SS, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "5",
+            "note": "Viacheslav Kozlov SS, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "5",
+            "note": "Viacheslav Kozlov SS, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "16",
+            "note": "Zigmund Palffy CC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "16",
+            "note": "Zigmund Palffy CC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "17",
+            "note": "Josef Beranek CC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "17",
+            "note": "Josef Beranek CC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "18",
+            "note": "Jiri Slegr CC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "18",
+            "note": "Jiri Slegr CC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "19",
+            "note": "Martin Rucinsky CC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "19",
+            "note": "Martin Rucinsky CC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "21",
+            "note": "Teemu Selanne CC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "21",
+            "note": "Teemu Selanne CC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "22",
+            "note": "Janne Laukkanen CC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "22",
+            "note": "Janne Laukkanen CC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "23",
+            "note": "Markus Ketterer CC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "23",
+            "note": "Markus Ketterer CC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "26",
+            "note": "Nicklas Lidstrom CC, RC, UER"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "26",
+            "note": "Nicklas Lidstrom CC, RC, UER, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "27",
+            "note": "Tomas Forslund CC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "27",
+            "note": "Tomas Forslund CC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "29",
+            "note": "Niklas Andersson CC, RC, UER"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "29",
+            "note": "Niklas Andersson CC, RC, UER, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "46",
+            "note": "Russ Romaniuk RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "46",
+            "note": "Russ Romaniuk RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "48",
+            "note": "Michel Picard RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "48",
+            "note": "Michel Picard RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "49",
+            "note": "Dennis Vaske RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "49",
+            "note": "Dennis Vaske RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "50",
+            "note": "Eric Murano RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "50",
+            "note": "Eric Murano RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "51",
+            "note": "Enrico Ciccone RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "51",
+            "note": "Enrico Ciccone RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "52",
+            "note": "Shaun Van Allen RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "52",
+            "note": "Shaun Van Allen RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "64",
+            "note": "Peter Forsberg DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "64",
+            "note": "Peter Forsberg DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "65",
+            "note": "Patrick Poulin DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "65",
+            "note": "Patrick Poulin DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "67",
+            "note": "Tyler Wright DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "67",
+            "note": "Tyler Wright DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "68",
+            "note": "Philippe Boucher DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "68",
+            "note": "Philippe Boucher DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "69",
+            "note": "Glen Murray DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "69",
+            "note": "Glen Murray DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "70",
+            "note": "Martin Rucinsky DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "70",
+            "note": "Martin Rucinsky DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "71",
+            "note": "Zigmund Palffy DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "71",
+            "note": "Zigmund Palffy DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "72",
+            "note": "Jassen Cullimore DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "72",
+            "note": "Jassen Cullimore DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "73",
+            "note": "Jamie Pushor DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "73",
+            "note": "Jamie Pushor DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "74",
+            "note": "Andrew Verner DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "74",
+            "note": "Andrew Verner DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "75",
+            "note": "Jason Dawe DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "75",
+            "note": "Jason Dawe DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "76",
+            "note": "Jamie Matthews DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "76",
+            "note": "Jamie Matthews DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "77",
+            "note": "Sandy McCarthy DC, RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "77",
+            "note": "Sandy McCarthy DC, RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "107",
+            "note": "Pat Jablonski RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "107",
+            "note": "Pat Jablonski RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "108",
+            "note": "Jarmo Kekalainen RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "108",
+            "note": "Jarmo Kekalainen RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "110",
+            "note": "Corey Millen RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "110",
+            "note": "Corey Millen RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "158",
+            "note": "Brian Glynn RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "158",
+            "note": "Brian Glynn RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "192",
+            "note": "Kevin Haller RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "192",
+            "note": "Kevin Haller RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "249",
+            "note": "Louie DeBrusk RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "249",
+            "note": "Louie DeBrusk RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "273",
+            "note": "Valeri Kamensky RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "273",
+            "note": "Valeri Kamensky RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "287",
+            "note": "Ron Hoover RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "287",
+            "note": "Ron Hoover RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "304",
+            "note": "Brad Jones RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "304",
+            "note": "Brad Jones RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "308",
+            "note": "Jim Paek RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "308",
+            "note": "Jim Paek RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "335",
+            "note": "Dominik Hasek RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "335",
+            "note": "Dominik Hasek RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "345",
+            "note": "John LeClair RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "345",
+            "note": "John LeClair RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "347",
+            "note": "Dan Currie RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "347",
+            "note": "Dan Currie RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "362",
+            "note": "Jiri Sejba RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "362",
+            "note": "Jiri Sejba RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "364",
+            "note": "Jeff Lazaro RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "364",
+            "note": "Jeff Lazaro RC, VAR"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "365",
+            "note": "Alexei Gusarov RC"
+        },
+        {
+            "num": "",
+            "player": "",
+            "team": "365",
+            "note": "Alexei Gusarov RC, VAR"
+        }
+    ]
+}

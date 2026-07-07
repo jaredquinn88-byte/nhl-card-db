@@ -1,0 +1,613 @@
+{
+    "year": "1991-92",
+    "set": "Pricing",
+    "total_cards": 101,
+    "cards": [
+        {
+            "num": "Baseball\n        Basketball\n        Boxing\n        Cricket\n        Football\n        Gaming\n        Golf\n        Hockey\n        Misc Sports\n        MMA\n        Multi-Sport\n        Non-Sport\n        Racing\n        Soccer\n        Tennis\n        Wrestling",
+            "player": "",
+            "team": "",
+            "note": ""
+        },
+        {
+            "num": "1",
+            "player": "",
+            "team": "Vladimir Malakhov SS, RC",
+            "note": ""
+        },
+        {
+            "num": "1",
+            "player": "",
+            "team": "Vladimir Malakhov SS, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "2",
+            "player": "",
+            "team": "Alexei Zhamnov SS, RC",
+            "note": ""
+        },
+        {
+            "num": "2",
+            "player": "",
+            "team": "Alexei Zhamnov SS, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "3",
+            "player": "",
+            "team": "Dmitri Filimonov SS, RC",
+            "note": ""
+        },
+        {
+            "num": "3",
+            "player": "",
+            "team": "Dmitri Filimonov SS, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "4",
+            "player": "",
+            "team": "Alexander Semak SS, RC",
+            "note": ""
+        },
+        {
+            "num": "4",
+            "player": "",
+            "team": "Alexander Semak SS, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "5",
+            "player": "",
+            "team": "Viacheslav Kozlov SS, RC",
+            "note": ""
+        },
+        {
+            "num": "5",
+            "player": "",
+            "team": "Viacheslav Kozlov SS, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "6",
+            "player": "",
+            "team": "Sergei Fedorov SS",
+            "note": ""
+        },
+        {
+            "num": "6",
+            "player": "",
+            "team": "Sergei Fedorov SS, VAR",
+            "note": ""
+        },
+        {
+            "num": "7",
+            "player": "",
+            "team": "Canada Cup Checklist (Brett Hull / Eric Lindros) CC, CL",
+            "note": ""
+        },
+        {
+            "num": "7",
+            "player": "",
+            "team": "Canada Cup Checklist (Brett Hull / Eric Lindros) CC, CL, VAR",
+            "note": ""
+        },
+        {
+            "num": "8",
+            "player": "",
+            "team": "Al MacInnis CC",
+            "note": ""
+        },
+        {
+            "num": "8",
+            "player": "",
+            "team": "Al MacInnis CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "9",
+            "player": "",
+            "team": "Eric Lindros CC",
+            "note": ""
+        },
+        {
+            "num": "9",
+            "player": "",
+            "team": "Eric Lindros CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "10",
+            "player": "",
+            "team": "Bill Ranford CC",
+            "note": ""
+        },
+        {
+            "num": "10",
+            "player": "",
+            "team": "Bill Ranford CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "11",
+            "player": "",
+            "team": "Paul Coffey CC",
+            "note": ""
+        },
+        {
+            "num": "11",
+            "player": "",
+            "team": "Paul Coffey CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "12",
+            "player": "",
+            "team": "Dale Hawerchuk CC",
+            "note": ""
+        },
+        {
+            "num": "12",
+            "player": "",
+            "team": "Dale Hawerchuk CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "13",
+            "player": "",
+            "team": "Wayne Gretzky CC",
+            "note": ""
+        },
+        {
+            "num": "13",
+            "player": "",
+            "team": "Wayne Gretzky CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "14",
+            "player": "",
+            "team": "Mark Messier CC",
+            "note": ""
+        },
+        {
+            "num": "14",
+            "player": "",
+            "team": "Mark Messier CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "15",
+            "player": "",
+            "team": "Steve Larmer CC",
+            "note": ""
+        },
+        {
+            "num": "15",
+            "player": "",
+            "team": "Steve Larmer CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "16",
+            "player": "",
+            "team": "Zigmund Palffy CC, RC",
+            "note": ""
+        },
+        {
+            "num": "16",
+            "player": "",
+            "team": "Zigmund Palffy CC, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "17",
+            "player": "",
+            "team": "Josef Beranek CC, RC",
+            "note": ""
+        },
+        {
+            "num": "17",
+            "player": "",
+            "team": "Josef Beranek CC, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "18",
+            "player": "",
+            "team": "Jiri Slegr CC, RC",
+            "note": ""
+        },
+        {
+            "num": "18",
+            "player": "",
+            "team": "Jiri Slegr CC, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "19",
+            "player": "",
+            "team": "Martin Rucinsky CC, RC",
+            "note": ""
+        },
+        {
+            "num": "19",
+            "player": "",
+            "team": "Martin Rucinsky CC, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "20",
+            "player": "",
+            "team": "Jaromir Jagr CC",
+            "note": ""
+        },
+        {
+            "num": "20",
+            "player": "",
+            "team": "Jaromir Jagr CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "21",
+            "player": "",
+            "team": "Teemu Selanne CC, RC",
+            "note": ""
+        },
+        {
+            "num": "21",
+            "player": "",
+            "team": "Teemu Selanne CC, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "22",
+            "player": "",
+            "team": "Janne Laukkanen CC, RC",
+            "note": ""
+        },
+        {
+            "num": "22",
+            "player": "",
+            "team": "Janne Laukkanen CC, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "23",
+            "player": "",
+            "team": "Markus Ketterer CC, RC",
+            "note": ""
+        },
+        {
+            "num": "23",
+            "player": "",
+            "team": "Markus Ketterer CC, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "24",
+            "player": "",
+            "team": "Jari Kurri CC",
+            "note": ""
+        },
+        {
+            "num": "24",
+            "player": "",
+            "team": "Jari Kurri CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "25",
+            "player": "",
+            "team": "Janne Ojanen CC",
+            "note": ""
+        },
+        {
+            "num": "25",
+            "player": "",
+            "team": "Janne Ojanen CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "26",
+            "player": "",
+            "team": "Nicklas Lidstrom CC, RC, UER",
+            "note": ""
+        },
+        {
+            "num": "26",
+            "player": "",
+            "team": "Nicklas Lidstrom CC, RC, UER, VAR",
+            "note": ""
+        },
+        {
+            "num": "27",
+            "player": "",
+            "team": "Tomas Forslund CC, RC",
+            "note": ""
+        },
+        {
+            "num": "27",
+            "player": "",
+            "team": "Tomas Forslund CC, RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "28",
+            "player": "",
+            "team": "Johan Garpenlov CC",
+            "note": ""
+        },
+        {
+            "num": "28",
+            "player": "",
+            "team": "Johan Garpenlov CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "29",
+            "player": "",
+            "team": "Niklas Andersson CC, RC, UER",
+            "note": ""
+        },
+        {
+            "num": "29",
+            "player": "",
+            "team": "Niklas Andersson CC, RC, UER, VAR",
+            "note": ""
+        },
+        {
+            "num": "30",
+            "player": "",
+            "team": "Tomas Sandstrom CC",
+            "note": ""
+        },
+        {
+            "num": "30",
+            "player": "",
+            "team": "Tomas Sandstrom CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "31",
+            "player": "",
+            "team": "Mats Sundin CC",
+            "note": ""
+        },
+        {
+            "num": "31",
+            "player": "",
+            "team": "Mats Sundin CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "32",
+            "player": "",
+            "team": "Mike Modano CC",
+            "note": ""
+        },
+        {
+            "num": "32",
+            "player": "",
+            "team": "Mike Modano CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "33",
+            "player": "",
+            "team": "Brett Hull CC",
+            "note": ""
+        },
+        {
+            "num": "33",
+            "player": "",
+            "team": "Brett Hull CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "34",
+            "player": "",
+            "team": "Mike Richter CC",
+            "note": ""
+        },
+        {
+            "num": "34",
+            "player": "",
+            "team": "Mike Richter CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "35",
+            "player": "",
+            "team": "Brian Leetch CC",
+            "note": ""
+        },
+        {
+            "num": "35",
+            "player": "",
+            "team": "Brian Leetch CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "36",
+            "player": "",
+            "team": "Jeremy Roenick CC",
+            "note": ""
+        },
+        {
+            "num": "36",
+            "player": "",
+            "team": "Jeremy Roenick CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "37",
+            "player": "",
+            "team": "Chris Chelios CC",
+            "note": ""
+        },
+        {
+            "num": "37",
+            "player": "",
+            "team": "Chris Chelios CC, VAR",
+            "note": ""
+        },
+        {
+            "num": "38",
+            "player": "",
+            "team": "Gretzky 99",
+            "note": ""
+        },
+        {
+            "num": "38",
+            "player": "",
+            "team": "Gretzky 99 VAR",
+            "note": ""
+        },
+        {
+            "num": "39",
+            "player": "",
+            "team": "Ed Belfour ART",
+            "note": ""
+        },
+        {
+            "num": "39",
+            "player": "",
+            "team": "Ed Belfour ART, VAR",
+            "note": ""
+        },
+        {
+            "num": "40",
+            "player": "",
+            "team": "Sergei Fedorov ART",
+            "note": ""
+        },
+        {
+            "num": "40",
+            "player": "",
+            "team": "Sergei Fedorov ART, VAR",
+            "note": ""
+        },
+        {
+            "num": "41",
+            "player": "",
+            "team": "Ken Hodge ART",
+            "note": ""
+        },
+        {
+            "num": "41",
+            "player": "",
+            "team": "Ken Hodge ART, VAR",
+            "note": ""
+        },
+        {
+            "num": "42",
+            "player": "",
+            "team": "Jaromir Jagr ART",
+            "note": ""
+        },
+        {
+            "num": "42",
+            "player": "",
+            "team": "Jaromir Jagr ART, VAR",
+            "note": ""
+        },
+        {
+            "num": "43",
+            "player": "",
+            "team": "Rob Blake ART",
+            "note": ""
+        },
+        {
+            "num": "43",
+            "player": "",
+            "team": "Rob Blake ART, VAR",
+            "note": ""
+        },
+        {
+            "num": "44",
+            "player": "",
+            "team": "Eric Weinrich ART",
+            "note": ""
+        },
+        {
+            "num": "44",
+            "player": "",
+            "team": "Eric Weinrich ART, VAR",
+            "note": ""
+        },
+        {
+            "num": "45",
+            "player": "",
+            "team": "The \"50/50\" Club (Mario Lemieux / Wayne Gretzky / Brett Hull)",
+            "note": ""
+        },
+        {
+            "num": "45",
+            "player": "",
+            "team": "The \"50/50\" Club (Mario Lemieux / Wayne Gretzky / Brett Hull) VAR",
+            "note": ""
+        },
+        {
+            "num": "46",
+            "player": "",
+            "team": "Russ Romaniuk RC",
+            "note": ""
+        },
+        {
+            "num": "46",
+            "player": "",
+            "team": "Russ Romaniuk RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "47",
+            "player": "",
+            "team": "White House Welcome (Mario Lemieux / George Bush)",
+            "note": ""
+        },
+        {
+            "num": "47",
+            "player": "",
+            "team": "White House Welcome (Mario Lemieux / George Bush) VAR",
+            "note": ""
+        },
+        {
+            "num": "48",
+            "player": "",
+            "team": "Michel Picard RC",
+            "note": ""
+        },
+        {
+            "num": "48",
+            "player": "",
+            "team": "Michel Picard RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "49",
+            "player": "",
+            "team": "Dennis Vaske RC",
+            "note": ""
+        },
+        {
+            "num": "49",
+            "player": "",
+            "team": "Dennis Vaske RC, VAR",
+            "note": ""
+        },
+        {
+            "num": "50",
+            "player": "",
+            "team": "Eric Murano RC",
+            "note": ""
+        },
+        {
+            "num": "50",
+            "player": "",
+            "team": "Eric Murano RC, VAR",
+            "note": ""
+        }
+    ]
+}

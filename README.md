@@ -11,8 +11,8 @@ card catalog.
   <range>/                 optional, e.g. 1-99/, 100-199/
     <season>_<Set_Name>_<number>_<Player_Name>_<Front|Back>.jpg
 reference-data/            scraped checklist data (unverified, see its README)
+test-scans/                phone photos of real cards, for testing recognition
 scripts/                   maintenance scripts
-_unsorted/                 images with no card details in the filename yet
 ```
 
 **The filename is the card's record.** FaceOff TCG reads season, set, card

@@ -12,6 +12,7 @@ card catalog.
     <season>_<Set_Name>_<number>_<Player_Name>_<Front|Back>.jpg
 reference-data/            scraped checklist data (unverified, see its README)
 test-scans/                phone photos of real cards, for testing recognition
+_review/                   images whose card isn't identified yet
 scripts/                   maintenance scripts
 ```
 
@@ -27,6 +28,10 @@ number and player from it, so new images must follow the pattern:
 - Words are separated by `_`; keep accents (`Éric_Dazé`).
 - The card number is the first part after the set name: digits, optionally
   with a letter prefix or suffix (`T-4`, `201A`, `104-SSP`), or `NNO`.
+  A number made only of letters starts with `#` (`#DM`), so it can't be
+  mistaken for part of a name.
+- Error cards that repeat another card's number get a letter (`2b`: 1995-96
+  Stadium Club Bill Ranford, misnumbered #2 instead of #21).
 - End with `_Front` or `_Back`.
 
 ## Scripts

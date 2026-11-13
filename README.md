@@ -32,9 +32,21 @@ number and player from it, so new images must follow the pattern:
   mistaken for part of a name.
 - Error cards that repeat another card's number get a letter (`2b`: 1995-96
   Stadium Club Bill Ranford, misnumbered #2 instead of #21).
-- End with `_Front` or `_Back`.
+- End with `_Front` or `_Back`, always, even when the set has no backs.
+  (A player whose surname is Back still needs the suffix:
+  `2025-26_O-Pee-Chee_257_Oskar_Back_Front.jpg`.)
+- Range folders are plain numbers (`1-99/`, `100-199/`), with no `#`.
+
+Run `python3 scripts/check_names.py` before committing new images; it lists
+any file that breaks these rules and exits non-zero if there are any.
 
 ## Scripts
+
+- `scripts/check_names.py`: checks every image name against the schema above.
+- `scripts/rename_manifest.csv`: old and new path of each of the 3,634 images
+  renamed in the November 2026 naming clean-up (2,851 missing `_Front`,
+  782 with `#` before a numeric card number, plus truncated names such as
+  `1991-92_Upper_Deck_45_The_.jpg` → `..._45_The_50-50_Club_Front.jpg`).
 
 - `scripts/dedupe_images.py`: removes byte-identical duplicate images
   (dry run by default, `--apply` to stage). `scripts/dedupe_manifest.csv`
